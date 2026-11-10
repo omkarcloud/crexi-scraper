@@ -1,0 +1,202 @@
+[
+ {
+  "title": "Houston",
+  "titleTag": "Houston for Lease",
+  "filters": {
+   "stateCode": "TX",
+   "cityOrNeighborhood": "Houston"
+  },
+  "numberOfAssets": 2302,
+  "numberOfSuites": 7831
+ },
+ {
+  "title": "New York",
+  "titleTag": "New York for Lease",
+  "filters": {
+   "stateCode": "NY",
+   "cityOrNeighborhood": "New York"
+  },
+  "numberOfAssets": 2139,
+  "numberOfSuites": 3940
+ },
+ {
+  "title": "Los Angeles",
+  "titleTag": "Los Angeles for Lease",
+  "filters": {
+   "stateCode": "CA",
+   "cityOrNeighborhood": "Los Angeles"
+  },
+  "numberOfAssets": 1703,
+  "numberOfSuites": 4290
+ },
+ {
+  "title": "Chicago",
+  "titleTag": "Chicago for Lease",
+  "filters": {
+   "stateCode": "IL",
+   "cityOrNeighborhood": "Chicago"
+  },
+  "numberOfAssets": 1617,
+  "numberOfSuites": 3942
+ },
+ {
+  "title": "San Antonio",
+  "titleTag": "San Antonio for Lease",
+  "filters": {
+   "stateCode": "TX",
+   "cityOrNeighborhood": "San Antonio"
+  },
+  "numberOfAssets": 1121,
+  "numberOfSuites": 3067
+ },
+ {
+  "title": "Miami",
+  "titleTag": "Miami for Lease",
+  "filters": {
+   "stateCode": "FL",
+   "cityOrNeighborhood": "Miami"
+  },
+  "numberOfAssets": 1001,
+  "numberOfSuites": 1644
+ },
+ {
+  "title": "Austin",
+  "titleTag": "Austin for Lease",
+  "filters": {
+   "stateCode": "TX",
+   "cityOrNeighborhood": "Austin"
+  },
+  "numberOfAssets": 990,
+  "numberOfSuites": 3231
+ },
+ {
+  "title": "Dallas",
+  "titleTag": "Dallas for Lease",
+  "filters": {
+   "stateCode": "TX",
+   "cityOrNeighborhood": "Dallas"
+  },
+  "numberOfAssets": 819,
+  "numberOfSuites": 3093
+ },
+ {
+  "title": "Las Vegas",
+  "titleTag": "Las Vegas for Lease",
+  "filters": {
+   "stateCode": "NV",
+   "cityOrNeighborhood": "Las Vegas"
+  },
+  "numberOfAssets": 805,
+  "numberOfSuites": 2130
+ },
+ {
+  "title": "Phoenix",
+  "titleTag": "Phoenix for Lease",
+  "filters": {
+   "stateCode": "AZ",
+   "cityOrNeighborhood": "Phoenix"
+  },
+  "numberOfAssets": 791,
+  "numberOfSuites": 2345
+ },
+ {
+  "title": "Denver",
+  "titleTag": "Denver for Lease",
+  "filters": {
+   "stateCode": "CO",
+   "cityOrNeighborhood": "Denver"
+  },
+  "numberOfAssets": 740,
+  "numberOfSuites": 2099
+ },
+ {
+  "title": "Philadelphia",
+  "titleTag": "Philadelphia for Lease",
+  "filters": {
+   "stateCode": "PA",
+   "cityOrNeighborhood": "Philadelphia"
+  },
+  "numberOfAssets": 727,
+  "numberOfSuites": 1683
+ },
+ {
+  "title": "Jacksonville",
+  "titleTag": "Jacksonville for Lease",
+  "filters": {
+   "stateCode": "FL",
+   "cityOrNeighborhood": "Jacksonville"
+  },
+  "numberOfAssets": 709,
+  "numberOfSuites": 1814
+ },
+ {
+  "title": "San Diego",
+  "titleTag": "San Diego for Lease",
+  "filters": {
+   "stateCode": "CA",
+   "cityOrNeighborhood": "San Diego"
+  },
+  "numberOfAssets": 685,
+  "numberOfSuites": 2142
+ },
+ {
+  "title": "Charlotte",
+  "titleTag": "Charlotte for Lease",
+  "filters": {
+   "stateCode": "NC",
+   "cityOrNeighborhood": "Charlotte"
+  },
+  "numberOfAssets": 662,
+  "numberOfSuites": 1608
+ },
+ {
+  "title": "Omaha",
+  "titleTag": "Omaha for Lease",
+  "filters": {
+   "stateCode": "NE",
+   "cityOrNeighborhood": "Omaha"
+  },
+  "numberOfAssets": 649,
+  "numberOfSuites": 1401
+ },
+ {
+  "title": "Indianapolis",
+  "titleTag": "Indianapolis for Lease",
+  "filters": {
+   "stateCode": "IN",
+   "cityOrNeighborhood": "Indianapolis"
+  },
+  "numberOfAssets": 614,
+  "numberOfSuites": 1426
+ },
+ {
+  "title": "Fort Worth",
+  "titleTag": "Fort Worth for Lease",
+  "filters": {
+   "stateCode": "TX",
+   "cityOrNeighborhood": "Fort Worth"
+  },
+  "numberOfAssets": 599,
+  "numberOfSuites": 1415
+ },
+ {
+  "title": "Orlando",
+  "titleTag": "Orlando for Lease",
+  "filters": {
+   "stateCode": "FL",
+   "cityOrNeighborhood": "Orlando"
+  },
+  "numberOfAssets": 593,
+  "numberOfSuites": 1336
+ },
+ {
+  "title": "Tucson",
+  "titleTag": "Tucson for Lease",
+  "filters": {
+   "stateCode": "AZ",
+   "cityOrNeighborhood": "Tucson"
+  },
+  "numberOfAssets": 588,
+  "numberOfSuites": 1184
+ }
+]

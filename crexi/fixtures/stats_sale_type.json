@@ -1,0 +1,93 @@
+[
+ {
+  "title": "Land",
+  "filters": {
+   "assetType": "Land"
+  },
+  "numberOfAssets": 125937
+ },
+ {
+  "title": "Retail",
+  "filters": {
+   "assetType": "Retail"
+  },
+  "numberOfAssets": 59904
+ },
+ {
+  "title": "Office",
+  "filters": {
+   "assetType": "Office"
+  },
+  "numberOfAssets": 40345
+ },
+ {
+  "title": "Multifamily",
+  "filters": {
+   "assetType": "Multifamily"
+  },
+  "numberOfAssets": 33898
+ },
+ {
+  "title": "Industrial",
+  "filters": {
+   "assetType": "Industrial"
+  },
+  "numberOfAssets": 30208
+ },
+ {
+  "title": "Mixed Use",
+  "filters": {
+   "assetType": "Mixed Use"
+  },
+  "numberOfAssets": 22796
+ },
+ {
+  "title": "Special Purpose",
+  "filters": {
+   "assetType": "Special Purpose"
+  },
+  "numberOfAssets": 17359
+ },
+ {
+  "title": "Business for Sale",
+  "filters": {
+   "assetType": "Business for Sale"
+  },
+  "numberOfAssets": 8955
+ },
+ {
+  "title": "Hospitality",
+  "filters": {
+   "assetType": "Hospitality"
+  },
+  "numberOfAssets": 5914
+ },
+ {
+  "title": "Self Storage",
+  "filters": {
+   "assetType": "Self Storage"
+  },
+  "numberOfAssets": 2459
+ },
+ {
+  "title": "Mobile Home Park",
+  "filters": {
+   "assetType": "Mobile Home Park"
+  },
+  "numberOfAssets": 1110
+ },
+ {
+  "title": "Senior Living",
+  "filters": {
+   "assetType": "Senior Living"
+  },
+  "numberOfAssets": 888
+ },
+ {
+  "title": "Note/Loan",
+  "filters": {
+   "assetType": "Note/Loan"
+  },
+  "numberOfAssets": 44
+ }
+]

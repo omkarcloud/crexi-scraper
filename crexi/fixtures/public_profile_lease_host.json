@@ -1,0 +1,22 @@
+{
+ "userId": 1867224,
+ "userGlobalId": "262a7831-336b-422d-8054-1123a8d6c3d8",
+ "firstName": "Heather",
+ "lastName": "Herndon",
+ "publicProfileId": "heatherhernd",
+ "markets": [
+  "Spring Arbor",
+  "Jackson"
+ ],
+ "badges": [],
+ "isPlatinum": false,
+ "specialityAssetType": "Office",
+ "verificationMethod": "None",
+ "activeAssetsStats": {
+  "number": 8,
+  "numberOfSuites": 8
+ },
+ "closedAssetsStats": {
+  "squareFootage": 0.0
+ }
+}

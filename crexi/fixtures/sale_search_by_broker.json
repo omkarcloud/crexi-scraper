@@ -1,0 +1,142 @@
+{
+ "data": [
+  {
+   "id": 2715395,
+   "name": "215 East Main Street",
+   "description": "Office",
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/assets/2715395/af7b2c60a6b84d1592a3c9e39a5ddbb9.JPG",
+   "urlSlug": "michigan-215-east-main-street",
+   "brokerageName": "HOWARD HANNA REAL ESTATE SERVI",
+   "activatedOn": "2026-09-21T19:22:48.541Z",
+   "isInOpportunityZone": false,
+   "hasVideo": false,
+   "numberOfGalleryItems": 43,
+   "pricePerSqFtLand": "$0/SF",
+   "pricePerAcreLand": "$0/Acre",
+   "showCountdownAsDate": false,
+   "askingPrice": 189900.0,
+   "userIsAssetOwner": false,
+   "updatedOn": "2026-11-03T13:10:05.566Z",
+   "numberOfImages": 43,
+   "types": [
+    "Office",
+    "Retail"
+   ],
+   "hasOM": false,
+   "hasFlyer": true,
+   "status": "On-Market",
+   "hasVirtualTour": false,
+   "locations": [
+    {
+     "address": "215 East Main Street",
+     "city": "Spring Arbor",
+     "county": "Jackson County",
+     "state": {
+      "code": "MI",
+      "name": "Michigan"
+     },
+     "zip": "49283",
+     "latitude": 42.2058395,
+     "longitude": -84.5504504,
+     "fullAddress": "215 East Main Street, Spring Arbor, Jackson County, MI 49283"
+    }
+   ],
+   "isNew": false
+  },
+  {
+   "id": 1576548,
+   "name": "Commercial Buildings on The Grand River Jackson, MI",
+   "description": "Can you envision a tech center, conference/event center, retail, restaurant, condo's, apartments....",
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/assets/1576548/003bd58d6ce142368adbd3a7674d259e.JPG",
+   "urlSlug": "michigan-commercial-buildings-on-the-grand-river-jackson-mi",
+   "brokerTeamLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/54441/2f4e62ce644b48ef94a878609ccb1348.JPG",
+   "brokerageName": "Howard Hanna Real Estate Services",
+   "activatedOn": "2024-06-27T18:17:49.712Z",
+   "isInOpportunityZone": false,
+   "hasVideo": false,
+   "numberOfGalleryItems": 44,
+   "squareFootage": 20400,
+   "showCountdownAsDate": false,
+   "askingPrice": 949900.0,
+   "userIsAssetOwner": false,
+   "updatedOn": "2026-10-02T13:47:42.433Z",
+   "numberOfImages": 44,
+   "types": [
+    "Hospitality",
+    "Industrial",
+    "Mixed Use",
+    "Office",
+    "Retail"
+   ],
+   "investmentType": "Owner/User",
+   "hasOM": false,
+   "hasFlyer": true,
+   "status": "On-Market",
+   "hasVirtualTour": false,
+   "locations": [
+    {
+     "address": "409 Hupp Ave",
+     "city": "Jackson",
+     "county": "Jackson County",
+     "state": {
+      "code": "MI",
+      "name": "Michigan"
+     },
+     "zip": "49203",
+     "latitude": 42.2473323,
+     "longitude": -84.399538,
+     "fullAddress": "409 Hupp Ave, Jackson, Jackson County, MI 49203"
+    }
+   ],
+   "isNew": false
+  },
+  {
+   "id": 2418275,
+   "name": "429 Hupp Avenue",
+   "description": "Retail | 4,800 SF",
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/assets/2418275/679d65deb77b4162aa38a5765d54d162.JPG",
+   "urlSlug": "michigan-429-hupp-avenue",
+   "brokerTeamLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/54441/2f4e62ce644b48ef94a878609ccb1348.JPG",
+   "brokerageName": "Howard Hanna Real Estate Services",
+   "activatedOn": "2025-04-04T12:01:50Z",
+   "isInOpportunityZone": false,
+   "hasVideo": false,
+   "numberOfGalleryItems": 16,
+   "squareFootage": 4800,
+   "pricePerSqFtLand": "$0/SF",
+   "pricePerAcreLand": "$0/Acre",
+   "showCountdownAsDate": false,
+   "askingPrice": 250000.0,
+   "userIsAssetOwner": false,
+   "updatedOn": "2026-10-30T12:10:07.239Z",
+   "numberOfImages": 16,
+   "types": [
+    "Retail",
+    "Office",
+    "Industrial",
+    "Land",
+    "Business for Sale"
+   ],
+   "hasOM": false,
+   "hasFlyer": true,
+   "status": "On-Market",
+   "hasVirtualTour": false,
+   "locations": [
+    {
+     "address": "429 Hupp Avenue",
+     "city": "Jackson",
+     "state": {
+      "code": "MI",
+      "name": "Michigan"
+     },
+     "zip": "49201",
+     "latitude": 42.3151209,
+     "longitude": -84.375233,
+     "fullAddress": "429 Hupp Avenue, Jackson, MI 49201"
+    }
+   ],
+   "isNew": false
+  }
+ ],
+ "totalCount": 12
+}

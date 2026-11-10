@@ -1,0 +1,9 @@
+{
+ "errorCode": "InvalidParameters",
+ "message": "The request is invalid.",
+ "modelState": {
+  "id": [
+   "Asset must be active or archived Auction."
+  ]
+ }
+}

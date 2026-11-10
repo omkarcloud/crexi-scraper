@@ -1,0 +1,56 @@
+[
+ {
+  "id": 2539674,
+  "fullName": "CBRE CBRE",
+  "profileId": "cbrecb",
+  "brokerageCountry": "United States",
+  "globalId": "3b7754e6-b798-4ede-a00b-624ec995021d",
+  "verificationMethod": "None"
+ },
+ {
+  "id": 91512,
+  "fullName": "CBRE Multifamily Advisors",
+  "profileId": "francescocar",
+  "brokerageName": "CBRE - Downtown Los Angeles",
+  "brokerageCity": "Los Angeles",
+  "brokerageStateCode": "CA",
+  "brokerageCountry": "United States",
+  "thumbnailUrl": "https://crexi.com/images/format=auto,width=164,height=164,fit=cover/users/91512/ddd7a40b892e4ea993c3afea3d376d4f.JPG",
+  "globalId": "6cedc887-651b-4bbf-a124-8f751d7987a4",
+  "verificationMethod": "None"
+ },
+ {
+  "id": 1085360,
+  "fullName": "CBRE Panama",
+  "profileId": "cbrepa",
+  "brokerageName": "CBRE Dallas",
+  "brokerageCity": "Dallas",
+  "brokerageStateCode": "TX",
+  "brokerageCountry": "Panama",
+  "thumbnailUrl": "https://crexi.com/images/format=auto,width=164,height=164,fit=cover/users/1085360/88fc923ca082408fb18cf6647db5f15d.JPG",
+  "globalId": "10d221be-5c49-463c-b429-71659b772a74",
+  "verificationMethod": "None"
+ },
+ {
+  "id": 2677230,
+  "fullName": "CBRE, Inc. (Connecticut - Hartford)",
+  "profileId": "cbreincc",
+  "brokerageName": "CBRE - Hartford",
+  "brokerageCity": "Hartford",
+  "brokerageStateCode": "CT",
+  "brokerageCountry": "United States",
+  "globalId": "91ffc102-6fd1-40c6-b415-60c4dfc227e8",
+  "verificationMethod": "None"
+ },
+ {
+  "id": 2677238,
+  "fullName": "CBRE, Inc. (Connecticut - Stamford)",
+  "profileId": "cbreincco",
+  "brokerageName": "CBRE - Stamford",
+  "brokerageCity": "Stamford",
+  "brokerageStateCode": "CT",
+  "brokerageCountry": "United States",
+  "globalId": "4454b7f9-61f3-4bb2-bebd-433053b1ed35",
+  "verificationMethod": "None"
+ }
+]

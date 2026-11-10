@@ -1,0 +1,217 @@
+{
+ "data": [
+  {
+   "id": 2598558,
+   "name": "5113 Maufrais - Duplex + SF Home Shovel Ready.",
+   "description": "Plans, Permits & Shovel-Ready Land for 3 SF Homes (Duplex + Detached)",
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/assets/2598558/182919075cb14544aea07a6795a01aeb.JPG",
+   "urlSlug": "texas-5113-maufrais---duplex-sf-home-shovel-ready",
+   "brokerTeamLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/106835/7badadc45a55469892646288a44ba244.PNG",
+   "brokerageName": "Liquid OZ",
+   "activatedOn": "2026-07-06T18:53:30.231Z",
+   "isInOpportunityZone": true,
+   "hasVideo": false,
+   "numberOfGalleryItems": 4,
+   "showCountdownAsDate": false,
+   "askingPrice": 235000.0,
+   "userIsAssetOwner": false,
+   "updatedOn": "2026-11-03T22:52:18.256Z",
+   "numberOfImages": 4,
+   "types": [
+    "Land"
+   ],
+   "investmentType": "Redevelopment",
+   "hasOM": false,
+   "hasFlyer": false,
+   "status": "On-Market",
+   "hasVirtualTour": false,
+   "locations": [
+    {
+     "address": "5113 Maufrais Lane",
+     "city": "Austin",
+     "county": "Travis County",
+     "state": {
+      "code": "TX",
+      "name": "Texas"
+     },
+     "zip": "78744",
+     "latitude": 30.1988855,
+     "longitude": -97.7362928,
+     "fullAddress": "5113 Maufrais Lane, Austin, Travis County, TX 78744"
+    }
+   ],
+   "isNew": false
+  },
+  {
+   "id": 2668241,
+   "name": "300 East Croslin Street #121 - Residential Studio",
+   "description": "Standalone Studio - Ready to Rent - Meets 1% or Better with AirBNB",
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/assets/2668241/eb109334c0a54602b2f5e9bf6a5e022e.JPG",
+   "urlSlug": "texas-300-east-croslin-street-121---residential-studio",
+   "activatedOn": "2026-08-19T22:39:01.665Z",
+   "isInOpportunityZone": false,
+   "hasVideo": false,
+   "numberOfGalleryItems": 5,
+   "squareFootage": 463,
+   "showCountdownAsDate": false,
+   "askingPrice": 84995.0,
+   "userIsAssetOwner": false,
+   "updatedOn": "2026-09-08T23:51:25.584Z",
+   "numberOfImages": 5,
+   "types": [
+    "Multifamily"
+   ],
+   "hasOM": true,
+   "hasFlyer": false,
+   "status": "On-Market",
+   "hasVirtualTour": false,
+   "locations": [
+    {
+     "address": "300 East Croslin Street",
+     "city": "Austin",
+     "county": "Travis County",
+     "state": {
+      "code": "TX",
+      "name": "Texas"
+     },
+     "zip": "78752",
+     "latitude": 30.336635537932146,
+     "longitude": -97.70691054536897,
+     "fullAddress": "300 East Croslin Street, Austin, Travis County, TX 78752"
+    }
+   ],
+   "isNew": false
+  },
+  {
+   "id": 2500725,
+   "name": "Austin Liquor Store",
+   "description": "Business for Sale",
+   "thumbnailUrl": "https://map-images.crexi.com/map-images/TX/Austin",
+   "urlSlug": "texas-austin-liquor-store",
+   "brokerageName": "Charles Tarkington",
+   "activatedOn": "2026-05-14T21:14:32.234Z",
+   "isInOpportunityZone": false,
+   "hasVideo": false,
+   "numberOfGalleryItems": 0,
+   "showCountdownAsDate": false,
+   "askingPrice": 557700.0,
+   "userIsAssetOwner": false,
+   "updatedOn": "2026-05-14T21:14:32.234Z",
+   "numberOfImages": 0,
+   "types": [
+    "Business for Sale"
+   ],
+   "hasOM": false,
+   "hasFlyer": true,
+   "status": "On-Market",
+   "hasVirtualTour": false,
+   "locations": [
+    {
+     "address": "Undisclosed",
+     "city": "Austin",
+     "county": "Travis County",
+     "state": {
+      "code": "TX",
+      "name": "Texas"
+     },
+     "zip": "78701",
+     "latitude": 30.2729209,
+     "longitude": -97.7443863,
+     "fullAddress": "Undisclosed, Austin, Travis County, TX 78701"
+    }
+   ],
+   "isNew": false
+  },
+  {
+   "id": 2699863,
+   "name": "Coffee Shop Business for Sale",
+   "description": "Retail | 1,588 SqFt",
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/assets/2699863/6d3d379b5ada479da67e85d3f7a3374a.jpg",
+   "urlSlug": "texas-coffee-shop-business-for-sale",
+   "brokerTeamLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/13317/d84232e23fbe490a99b59e186c4ea7d8.JPG",
+   "brokerageName": "Resolut RE Austin",
+   "activatedOn": "2026-09-12T17:29:02.786Z",
+   "isInOpportunityZone": false,
+   "hasVideo": false,
+   "numberOfGalleryItems": 2,
+   "squareFootage": 1588,
+   "showCountdownAsDate": false,
+   "askingPrice": 300000.0,
+   "userIsAssetOwner": false,
+   "updatedOn": "2026-09-12T17:33:51.831Z",
+   "numberOfImages": 2,
+   "types": [
+    "Retail",
+    "Business for Sale"
+   ],
+   "hasOM": false,
+   "hasFlyer": true,
+   "status": "On-Market",
+   "hasVirtualTour": false,
+   "locations": [
+    {
+     "address": "Undefined",
+     "city": "Austin",
+     "county": "Travis",
+     "state": {
+      "code": "TX",
+      "name": "Texas"
+     },
+     "zip": "78757",
+     "latitude": 30.3568213,
+     "longitude": -97.730807,
+     "fullAddress": "Undefined, Austin, Travis, TX 78757"
+    }
+   ],
+   "isNew": false
+  },
+  {
+   "id": 1722878,
+   "name": "604 W. Oltorf, Austin, TX 78704",
+   "description": "Vacant lot, ~6,085 SF, zoned LO-CO-NP.",
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/assets/1722878/ab088b86b88846989b48af0ec2bb5d56.JPG",
+   "urlSlug": "texas-604-w-oltorf-austin-tx-78704",
+   "brokerTeamLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/85949/e4de1cf9cd0345fca968faf9e22801c9.png",
+   "brokerageName": "Impact Commercial Group",
+   "activatedOn": "2024-11-23T05:32:12.517Z",
+   "isInOpportunityZone": false,
+   "hasVideo": true,
+   "numberOfGalleryItems": 16,
+   "squareFootage": 6085,
+   "pricePerSqFtLand": "$115.04/SF",
+   "showCountdownAsDate": false,
+   "askingPrice": 455000.0,
+   "userIsAssetOwner": false,
+   "updatedOn": "2026-10-13T19:33:33.47Z",
+   "numberOfImages": 15,
+   "types": [
+    "Land",
+    "Mixed Use",
+    "Office",
+    "Retail"
+   ],
+   "investmentType": "Redevelopment",
+   "hasOM": false,
+   "hasFlyer": true,
+   "status": "On-Market",
+   "hasVirtualTour": false,
+   "locations": [
+    {
+     "address": "604 W Oltorf St",
+     "city": "Austin",
+     "county": "Travis County",
+     "state": {
+      "code": "TX",
+      "name": "Texas"
+     },
+     "zip": "78704",
+     "latitude": 30.242439538563556,
+     "longitude": -97.76000419223537,
+     "fullAddress": "604 W Oltorf St, Austin, Travis County, TX 78704"
+    }
+   ],
+   "isNew": false
+  }
+ ],
+ "totalCount": 658
+}

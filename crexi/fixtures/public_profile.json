@@ -1,0 +1,73 @@
+{
+ "userId": 1742677,
+ "userGlobalId": "262a7831-336b-422d-8054-1123a8d6c3d8",
+ "verificationMethod": "None",
+ "photoUrl": "https://crexi.com/images/format=auto,width=164,height=164,fit=cover/users/1742677/8cc8a5ee7b4d411da6e8934d6fe25561.JPG",
+ "headerUrl": "https://files.crexi.com/users/1742677/bb8ce165a55d44adb00448426e87f180.JPG",
+ "firstName": "Heather",
+ "lastName": "Herndon",
+ "publicProfileId": "heatherhernd",
+ "phone": "",
+ "licenseNumbers": [
+  "MI 6501335416"
+ ],
+ "about": "Thank you for visiting! I have been a REALTOR since 2005 serving Jackson County and surrounding areas. \n\nMy Team is amazing and we all work together to give you the Best Experience in Buying or Selling your Home! You need attention to detail, constant communication and someone to help you navigate the process with you! It takes a Village and we are so honored to walk with you during this exciting time in your life. \n\nHeather Herndon, REALTOR, Listing and Buyers Agent and Team Leader\n\nTeri Daniels, REALTOR\n\nRuth Gundy, REALTOR\n\nKelly Talbert, REALTOR\n\nLloyd Herndon, REALTOR\n\nErin Axon, REALTOR\n\nConnor Talbert, REALTOR\n\nJen Biela, Team Administrator\n\nWe look forward to guiding you through the home buying or selling process.\n\nYou can count on a Comprehensive Marketing Plan, Integrity, Knowledge, Attentive to your Needs, Attention to Detail and Professional Service.\n\nStatistics 2005-2025:\n\n2025 - 183 Properties Sold and $49.7 Million in Sales Volume\n\n2024 - 210 Properties Sold and 48 Million in Sales Volume\n\n2023- 171 Properties Sold and 40.1 Million in Sales Volume\n\n2022 - 171 Properties Sold and 36.8 Million in Sales\n\n2021 - 187 Properties Sold and 40.7 Million in Sales\n\n2020 - 185 Properties Sold and 30.6 Million in Sales Volume \n\n2019 - 207 Properties Sold and 33.3 Million in Sales Volume\n\n2018 - 185 Properties Sold and 30 Million in Sales Volume \n2017 - 179 Properties Sold and over 27 Million in Sales Volume \n2016 - 155 Homes Sold and over 21.9 Million in Sales Volume\n2015 - 142 Homes Sold and over 19 Million in Sales Volume\n2014 - 106 Homes Sold and over 15.1 Million in Sales Volume\n2013 - 130 Homes Sold and over 17.7 Million in Sales Volume\n2012 - 107 Homes Sold and over 14 Million in Sales Volume\n2011 - Leadership Award - 100 Homes Sold and over 11.6 Million in Sales Volume\n2010 - Leadership Award - Edward Surovell Realtors - 58 Homes Sold and 6.2 Million in Transactions\n2009 - Production Award - Over 4 million in transactions - Jackson Area Association of Realtors\n2009 - Sales Production Award - Edward Surovell Realtors - 59 Transactions\n2008 - Production Award - Over 5 million in transactions - Jackson Area Association of Realtors\n2008 - Sales Production Award - 52 Transactions - Edward Surovell Realtors\n2007 - Production Award - Over 4 million in transactions - Jackson Area Association of Realtors\n2006 - Production Award - Over 4 million in transactions - Jackson Area Association of Realtors\n2006 - Rookie of the Year - Jackson Area Association of Realtors\n2006 - Top Producer - Volume - Prudential Premier Properties\n2006 - Top Producer - Units - Prudential Premier Properties\n2005 - Quick Start Award - Prudential Premier Properties",
+ "experienceYears": 18,
+ "markets": [
+  "Michigan Center",
+  "Parma",
+  "Grass Lake",
+  "Spring Arbor",
+  "Onsted"
+ ],
+ "badges": [],
+ "designations": [
+  "REALTOR"
+ ],
+ "hideSummaryStatistics": false,
+ "hideClosedTransaction": false,
+ "isPlatinum": false,
+ "updatedOn": "2026-11-06T13:07:00.764Z",
+ "specialityAssetType": "Retail",
+ "roles": {
+  "isListingBroker": true,
+  "isTransactionCoordinator": false,
+  "isBuysideBroker": false,
+  "isLandlordBroker": true,
+  "isCoordinator": false,
+  "isTenantRepBroker": false,
+  "isOtherRole": false,
+  "isLeaseOtherRole": false
+ },
+ "brokerage": {
+  "location": {
+   "address": "2131 Ferguson Road",
+   "city": "Jackson",
+   "county": "",
+   "country": "United States",
+   "state": {
+    "code": "MI",
+    "name": "Michigan"
+   },
+   "zip": "49203",
+   "latitude": 0.0,
+   "longitude": 0.0,
+   "povLatitude": 0.0,
+   "povLongitude": 0.0
+  },
+  "name": "Howard Hanna Real Estate Services",
+  "logoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/54441/2f4e62ce644b48ef94a878609ccb1348.JPG",
+  "website": "https://www.howardhanna.com/"
+ },
+ "closedAssetsStats": {
+  "askingToSalePricePercent": 97.0,
+  "number": 32,
+  "value": 632600.0,
+  "squareFootage": 101915
+ },
+ "activeAssetsStats": {
+  "number": 12,
+  "value": 7459400.0,
+  "squareFootage": 177232
+ }
+}

@@ -1,0 +1,78 @@
+[
+ {
+  "numberOfAssets": 0,
+  "capabilities": [],
+  "badges": [],
+  "publicProfileId": "michaelwillner",
+  "brokerage": {
+   "location": {
+    "address": "33 Rock Hill Rd",
+    "city": "Bala Cynwyd",
+    "county": "",
+    "country": "United States",
+    "state": {
+     "code": "PA",
+     "name": "Pennsylvania"
+    },
+    "zip": "19004",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "povLatitude": 0.0,
+    "povLongitude": 0.0
+   },
+   "name": "Pomegranate RE",
+   "logoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/104161/2f15e7acff884ca4b23987d9ef01c6c4.jpg"
+  },
+  "licenses": [
+   "FLBO"
+  ],
+  "isPlatinum": false,
+  "contactRevealRequired": false,
+  "hasPhone": false,
+  "hasEmail": false,
+  "id": 1234808,
+  "globalId": "7f772bf4-bbe1-4e10-a60d-dcbe4bf979a1",
+  "firstName": "Michael",
+  "lastName": "Willner",
+  "thumbnailUrl": "https://crexi.com/images/format=auto,width=164,height=164,fit=cover/users/1115106/51dce45123a94cc2b5ab17d6cc8c2c58.jpg",
+  "createdOn": "2022-06-07T14:09:34.872Z",
+  "licenseDetails": [
+   {
+    "brokerId": 1234808,
+    "position": 0,
+    "number": "FLBO",
+    "typeId": "Real Estate Sales Person",
+    "createdOn": "2026-03-06T09:47:52.82Z",
+    "licenseStateCode": "PA"
+   }
+  ],
+  "verificationMethod": "None"
+ },
+ {
+  "numberOfAssets": 0,
+  "capabilities": [],
+  "badges": [],
+  "brokerage": {
+   "location": {
+    "county": "",
+    "country": "United States",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "povLatitude": 0.0,
+    "povLongitude": 0.0
+   }
+  },
+  "licenses": [],
+  "isPlatinum": false,
+  "contactRevealRequired": false,
+  "hasPhone": false,
+  "hasEmail": false,
+  "id": 2830148,
+  "globalId": "5aa0ea8a-1063-48b5-9fed-6794e9c57ee8",
+  "firstName": "Grant",
+  "lastName": "Grundlock",
+  "createdOn": "2025-06-30T16:32:39.413Z",
+  "licenseDetails": [],
+  "verificationMethod": "None"
+ }
+]

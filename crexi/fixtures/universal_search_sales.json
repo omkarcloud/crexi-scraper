@@ -1,0 +1,86 @@
+[
+ {
+  "id": "sales-2749073",
+  "type": "Sales",
+  "address": {
+   "stateCode": "TX",
+   "stateName": "Texas",
+   "fullAddress": "Austin, TX",
+   "city": "Austin",
+   "county": "Travis County",
+   "slug": "Austin-TX"
+  }
+ },
+ {
+  "id": "sales-829846",
+  "type": "Sales",
+  "address": {
+   "stateCode": "MI",
+   "stateName": "Michigan",
+   "fullAddress": "Austin Ct, Howell, MI 48843",
+   "streetAddress": "Austin Ct",
+   "zip": "48843",
+   "city": "Howell",
+   "county": "Livingston County",
+   "location": {
+    "lat": 42.6146539,
+    "lon": -83.9871277
+   },
+   "slug": "Howell-MI-48843"
+  }
+ },
+ {
+  "id": "sales-1669681",
+  "type": "Sales",
+  "address": {
+   "stateCode": "SC",
+   "stateName": "South Carolina",
+   "fullAddress": "Austin St, Greer, SC 29651",
+   "streetAddress": "Austin St",
+   "zip": "29651",
+   "city": "Greer",
+   "county": "Greenville County",
+   "location": {
+    "lat": 34.93767996,
+    "lon": -82.21980771
+   },
+   "slug": "Greer-SC-29651"
+  }
+ },
+ {
+  "id": "sales-1728295",
+  "type": "Sales",
+  "address": {
+   "stateCode": "TX",
+   "stateName": "Texas",
+   "fullAddress": "Austin St, Sanger, TX 76266",
+   "streetAddress": "Austin St",
+   "zip": "76266",
+   "city": "Sanger",
+   "county": "Denton County",
+   "location": {
+    "lat": 33.3563615,
+    "lon": -97.1769278
+   },
+   "slug": "Sanger-TX-76266"
+  }
+ },
+ {
+  "id": "sales-2466984",
+  "type": "Sales",
+  "address": {
+   "stateCode": "SC",
+   "stateName": "South Carolina",
+   "fullAddress": "Austin Road, Pageland, SC 29728",
+   "streetAddress": "Austin Road",
+   "zip": "29728",
+   "city": "Pageland",
+   "county": "Chesterfield",
+   "location": {
+    "lat": 34.811683,
+    "lon": -80.5521983
+   },
+   "slug": "Pageland-SC-29728"
+  }
+ }
+]

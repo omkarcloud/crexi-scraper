@@ -1,0 +1,57 @@
+[
+ {
+  "capabilities": [],
+  "brokerage": {
+   "location": {
+    "address": "1144 15th St",
+    "city": "Denver",
+    "county": "",
+    "country": "United States",
+    "state": {
+     "code": "CO",
+     "name": "Colorado"
+    },
+    "zip": "80202",
+    "aptNumber": "Suite 2150",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "povLatitude": 0.0,
+    "povLongitude": 0.0
+   },
+   "name": "Marcus & Millichap - Denver",
+   "logoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/14123/09d2c38fdca6419887f3eac0f51d6a90.jpg",
+   "website": "http://www.marcusmillichap.com/about-us/offices/denver-colorado"
+  },
+  "badges": [],
+  "numberOfAssets": 225,
+  "isInternal": false,
+  "isPlatinum": false,
+  "contactRevealRequired": false,
+  "hasPhone": false,
+  "hasEmail": false,
+  "globalId": "5e310354-870b-4a77-9431-a2edf4cf6b6b",
+  "id": 49764,
+  "firstName": "Adam",
+  "lastName": "Lewis",
+  "thumbnailUrl": "https://crexi.com/images/format=auto,width=164,height=164,fit=cover/users/49764/10078fc08e904bbc8883218ce985ac01.JPG",
+  "createdOn": "2018-01-09T13:05:38.784Z",
+  "publicProfileId": "adamlewi",
+  "licenses": [
+   "CO Lic: ER.100091205"
+  ],
+  "licenseDetails": [
+   {
+    "brokerId": 49764,
+    "position": 0,
+    "number": "CO Lic: ER.100091205",
+    "typeId": "Real Estate Broker",
+    "createdOn": "2026-09-29T20:39:07.929Z",
+    "brokerageName": "Marcus & Millichap",
+    "isAuctioneer": false,
+    "brokerageLicensePhone": "3033282000"
+   }
+  ],
+  "isAuctioneer": false,
+  "verificationMethod": "None"
+ }
+]

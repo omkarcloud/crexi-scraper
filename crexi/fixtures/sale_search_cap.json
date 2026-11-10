@@ -1,0 +1,14 @@
+{
+ "errors": {
+  "count": [
+   "Offset + Count must be less than 1500"
+  ],
+  "offset": [
+   "Offset + Count must be less than 1500"
+  ]
+ },
+ "type": "https://tools.ietf.org/html/rfc9110#section-15.5.1",
+ "title": "One or more validation errors occurred.",
+ "status": 400,
+ "traceId": "00-df9cc2a9d9c9bcd7a76f63fde0d9e390-04f4080ff3753eca-01"
+}

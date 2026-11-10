@@ -1,0 +1,91 @@
+[
+ {
+  "id": "lease-821752",
+  "type": "Lease",
+  "address": {
+   "stateCode": "VA",
+   "stateName": "Virginia",
+   "fullAddress": "Austin Ridge Drive & Courthouse Road, Stafford, VA 22554",
+   "streetAddress": "Austin Ridge Drive & Courthouse Road",
+   "zip": "22554",
+   "city": "Stafford",
+   "location": {
+    "lat": 38.4223137,
+    "lon": -77.4283521
+   },
+   "slug": "Stafford-VA-22554"
+  }
+ },
+ {
+  "id": "lease-718941",
+  "type": "Lease",
+  "address": {
+   "stateCode": "TX",
+   "stateName": "Texas",
+   "fullAddress": "Austin Hwy & Seidel Pad Site, San Antonio, TX 78209",
+   "streetAddress": "Austin Hwy & Seidel Pad Site",
+   "zip": "78209",
+   "city": "San Antonio",
+   "county": "Bexar County",
+   "neighborhood": "Uptown Central",
+   "location": {
+    "lat": 29.4886967,
+    "lon": -98.4443485
+   },
+   "slug": "San-Antonio-TX-78209"
+  }
+ },
+ {
+  "id": "lease-654821",
+  "type": "Lease",
+  "address": {
+   "stateCode": "CO",
+   "stateName": "Colorado",
+   "fullAddress": "Austin Bluffs Parkway and Academy Boulevard, Colorado Springs, CO 80907",
+   "streetAddress": "Austin Bluffs Parkway and Academy Boulevard",
+   "zip": "80907",
+   "city": "Colorado Springs",
+   "neighborhood": "Northeast Colorado Springs",
+   "location": {
+    "lat": 38.8778926,
+    "lon": -104.8104424
+   },
+   "slug": "Colorado-Springs-CO-80907"
+  }
+ },
+ {
+  "id": "lease-1247589",
+  "type": "Lease",
+  "address": {
+   "stateCode": "OH",
+   "stateName": "Ohio",
+   "fullAddress": "NELSON DR, AUSTINBURG, OH 44010",
+   "streetAddress": "NELSON DR",
+   "zip": "44010",
+   "city": "AUSTINBURG",
+   "county": "ASHTABULA",
+   "location": {
+    "lat": 41.7918136,
+    "lon": -80.8580187
+   },
+   "slug": "AUSTINBURG-OH-44010"
+  }
+ },
+ {
+  "id": "lease-5869",
+  "type": "Lease",
+  "address": {
+   "stateCode": "MI",
+   "stateName": "Michigan",
+   "fullAddress": "2408-2410 Austins Parkway, Flint, MI 48507",
+   "streetAddress": "2408-2410 Austins Parkway",
+   "zip": "48507",
+   "city": "Flint",
+   "location": {
+    "lat": 42.991143,
+    "lon": -83.7392799
+   },
+   "slug": "Flint-MI-48507"
+  }
+ }
+]

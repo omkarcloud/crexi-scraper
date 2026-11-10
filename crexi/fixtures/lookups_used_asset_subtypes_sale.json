@@ -1,0 +1,111 @@
+[
+ {
+  "type": "Multifamily",
+  "subtypes": [
+   "Student Housing",
+   "Single Family Rental Portfolio",
+   "RV Park",
+   "Apartment Building"
+  ]
+ },
+ {
+  "type": "Retail",
+  "subtypes": [
+   "Bank",
+   "Convenience Store",
+   "Day Care/Nursery",
+   "QSR/Fast Food",
+   "Gas Station",
+   "Grocery Store",
+   "Pharmacy/Drug",
+   "Restaurant",
+   "Bar",
+   "Storefront",
+   "Shopping Center",
+   "Auto Shop"
+  ]
+ },
+ {
+  "type": "Office",
+  "subtypes": [
+   "Traditional Office",
+   "Executive Office",
+   "Medical Office",
+   "Creative Office"
+  ]
+ },
+ {
+  "type": "Industrial",
+  "subtypes": [
+   "Distribution",
+   "Flex",
+   "Warehouse",
+   "R&D",
+   "Manufacturing",
+   "Refrigerated/Cold Storage"
+  ]
+ },
+ {
+  "type": "Mixed Use",
+  "subtypes": []
+ },
+ {
+  "type": "Hospitality",
+  "subtypes": [
+   "Hotel",
+   "Motel",
+   "Casino"
+  ]
+ },
+ {
+  "type": "Land",
+  "subtypes": [
+   "Agricultural",
+   "Residential",
+   "Commercial",
+   "Industrial",
+   "Islands",
+   "Farm",
+   "Ranch",
+   "Timber",
+   "Hunting/Recreational"
+  ]
+ },
+ {
+  "type": "Special Purpose",
+  "subtypes": [
+   "Telecom/Data Center",
+   "Sports/Entertainment",
+   "Marina",
+   "Golf Course",
+   "School",
+   "Religious/Church",
+   "Garage/Parking",
+   "Car Wash",
+   "Airport"
+  ]
+ },
+ {
+  "type": "Note/Loan",
+  "subtypes": []
+ },
+ {
+  "type": "Self Storage",
+  "subtypes": []
+ },
+ {
+  "type": "Senior Living",
+  "subtypes": []
+ },
+ {
+  "type": "Mobile Home Park",
+  "subtypes": []
+ },
+ {
+  "type": "Business for Sale",
+  "subtypes": [
+   "Business Only",
+   "Business and Building"
+  ]
+ }
+]

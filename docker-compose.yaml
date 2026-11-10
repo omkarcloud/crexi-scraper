@@ -1,0 +1,10 @@
+services:
+  crexi-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Crexi's JSON APIs answer cloud servers too, so leave this unset.
+      # - CREXI_PROXY=http://user:pass@host:port

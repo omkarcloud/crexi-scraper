@@ -1,0 +1,80 @@
+[
+ {
+  "id": "sales-2673689",
+  "type": "Sales",
+  "address": {
+   "stateCode": "FL",
+   "stateName": "Florida",
+   "fullAddress": "Miami, Miami Shores, FL 33150",
+   "streetAddress": "Miami",
+   "zip": "33150",
+   "city": "Miami Shores",
+   "county": "Miami-Dade County",
+   "location": {
+    "lat": 25.8487631,
+    "lon": -80.2070328
+   },
+   "slug": "Miami-Shores-FL-33150"
+  }
+ },
+ {
+  "id": "sales-2769661",
+  "type": "Sales",
+  "address": {
+   "stateCode": "FL",
+   "stateName": "Florida",
+   "fullAddress": "MIAMI FL 33187, MIAMI, FL 33187",
+   "streetAddress": "MIAMI FL 33187",
+   "zip": "33187",
+   "city": "MIAMI",
+   "location": {
+    "lat": 25.76133440715808,
+    "lon": -80.42876454101801
+   },
+   "slug": "MIAMI-FL-33187"
+  }
+ },
+ {
+  "id": "sales-2582685",
+  "type": "Sales",
+  "address": {
+   "stateCode": "FL",
+   "stateName": "Florida",
+   "fullAddress": "Miami FL 33137, Miami, FL 33137",
+   "streetAddress": "Miami FL 33137",
+   "zip": "33137",
+   "city": "Miami",
+   "county": "Miami-Dade County",
+   "neighborhood": "Upper East Side",
+   "location": {
+    "lat": 25.8207159,
+    "lon": -80.1819268
+   },
+   "slug": "Miami-FL-33137"
+  }
+ },
+ {
+  "id": "sales-2011136",
+  "type": "Sales",
+  "address": {
+   "stateCode": "FL",
+   "stateName": "Florida",
+   "fullAddress": "Miami, FL",
+   "city": "Miami",
+   "county": "Miami-Dade County",
+   "slug": "Miami-FL"
+  }
+ },
+ {
+  "id": "sales-2645929",
+  "type": "Sales",
+  "address": {
+   "stateCode": "FL",
+   "stateName": "Florida",
+   "fullAddress": "Miami Gardens, FL",
+   "city": "Miami Gardens",
+   "county": "Miami-Dade County",
+   "slug": "Miami-Gardens-FL"
+  }
+ }
+]

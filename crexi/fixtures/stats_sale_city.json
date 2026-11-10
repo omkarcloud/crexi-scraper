@@ -1,0 +1,182 @@
+[
+ {
+  "title": "Chicago",
+  "titleTag": "Chicago for Sale",
+  "filters": {
+   "stateCode": "IL",
+   "cityOrNeighborhood": "Chicago"
+  },
+  "numberOfAssets": 1890
+ },
+ {
+  "title": "Los Angeles",
+  "titleTag": "Los Angeles for Sale",
+  "filters": {
+   "stateCode": "CA",
+   "cityOrNeighborhood": "Los Angeles"
+  },
+  "numberOfAssets": 1797
+ },
+ {
+  "title": "Miami",
+  "titleTag": "Miami for Sale",
+  "filters": {
+   "stateCode": "FL",
+   "cityOrNeighborhood": "Miami"
+  },
+  "numberOfAssets": 1706
+ },
+ {
+  "title": "Houston",
+  "titleTag": "Houston for Sale",
+  "filters": {
+   "stateCode": "TX",
+   "cityOrNeighborhood": "Houston"
+  },
+  "numberOfAssets": 1641
+ },
+ {
+  "title": "San Antonio",
+  "titleTag": "San Antonio for Sale",
+  "filters": {
+   "stateCode": "TX",
+   "cityOrNeighborhood": "San Antonio"
+  },
+  "numberOfAssets": 937
+ },
+ {
+  "title": "Detroit",
+  "titleTag": "Detroit for Sale",
+  "filters": {
+   "stateCode": "MI",
+   "cityOrNeighborhood": "Detroit"
+  },
+  "numberOfAssets": 749
+ },
+ {
+  "title": "Portland",
+  "titleTag": "Portland for Sale",
+  "filters": {
+   "stateCode": "OR",
+   "cityOrNeighborhood": "Portland"
+  },
+  "numberOfAssets": 646
+ },
+ {
+  "title": "Philadelphia",
+  "titleTag": "Philadelphia for Sale",
+  "filters": {
+   "stateCode": "PA",
+   "cityOrNeighborhood": "Philadelphia"
+  },
+  "numberOfAssets": 643
+ },
+ {
+  "title": "Jacksonville",
+  "titleTag": "Jacksonville for Sale",
+  "filters": {
+   "stateCode": "FL",
+   "cityOrNeighborhood": "Jacksonville"
+  },
+  "numberOfAssets": 599
+ },
+ {
+  "title": "Dallas",
+  "titleTag": "Dallas for Sale",
+  "filters": {
+   "stateCode": "TX",
+   "cityOrNeighborhood": "Dallas"
+  },
+  "numberOfAssets": 560
+ },
+ {
+  "title": "Phoenix",
+  "titleTag": "Phoenix for Sale",
+  "filters": {
+   "stateCode": "AZ",
+   "cityOrNeighborhood": "Phoenix"
+  },
+  "numberOfAssets": 536
+ },
+ {
+  "title": "San Diego",
+  "titleTag": "San Diego for Sale",
+  "filters": {
+   "stateCode": "CA",
+   "cityOrNeighborhood": "San Diego"
+  },
+  "numberOfAssets": 521
+ },
+ {
+  "title": "Denver",
+  "titleTag": "Denver for Sale",
+  "filters": {
+   "stateCode": "CO",
+   "cityOrNeighborhood": "Denver"
+  },
+  "numberOfAssets": 507
+ },
+ {
+  "title": "Austin",
+  "titleTag": "Austin for Sale",
+  "filters": {
+   "stateCode": "TX",
+   "cityOrNeighborhood": "Austin"
+  },
+  "numberOfAssets": 504
+ },
+ {
+  "title": "New York",
+  "titleTag": "New York for Sale",
+  "filters": {
+   "stateCode": "NY",
+   "cityOrNeighborhood": "New York"
+  },
+  "numberOfAssets": 497
+ },
+ {
+  "title": "Memphis",
+  "titleTag": "Memphis for Sale",
+  "filters": {
+   "stateCode": "TN",
+   "cityOrNeighborhood": "Memphis"
+  },
+  "numberOfAssets": 487
+ },
+ {
+  "title": "Las Vegas",
+  "titleTag": "Las Vegas for Sale",
+  "filters": {
+   "stateCode": "NV",
+   "cityOrNeighborhood": "Las Vegas"
+  },
+  "numberOfAssets": 478
+ },
+ {
+  "title": "Fort Lauderdale",
+  "titleTag": "Fort Lauderdale for Sale",
+  "filters": {
+   "stateCode": "FL",
+   "cityOrNeighborhood": "Fort Lauderdale"
+  },
+  "numberOfAssets": 472
+ },
+ {
+  "title": "South Los Angeles",
+  "titleTag": "South Los Angeles for Sale",
+  "filters": {
+   "stateCode": "CA",
+   "cityOrNeighborhood": "South Los Angeles"
+  },
+  "numberOfAssets": 465
+ },
+ {
+  "title": "Baton Rouge",
+  "titleTag": "Baton Rouge for Sale",
+  "filters": {
+   "stateCode": "LA",
+   "cityOrNeighborhood": "Baton Rouge"
+  },
+  "numberOfAssets": 449
+ }
+]

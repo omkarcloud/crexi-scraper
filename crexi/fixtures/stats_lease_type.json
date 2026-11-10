@@ -1,0 +1,50 @@
+[
+ {
+  "title": "Retail",
+  "filters": {
+   "assetType": "Retail"
+  },
+  "numberOfAssets": 87181,
+  "numberOfSuites": 187386
+ },
+ {
+  "title": "Office",
+  "filters": {
+   "assetType": "Office"
+  },
+  "numberOfAssets": 82710,
+  "numberOfSuites": 218985
+ },
+ {
+  "title": "Industrial",
+  "filters": {
+   "assetType": "Industrial"
+  },
+  "numberOfAssets": 43998,
+  "numberOfSuites": 76810
+ },
+ {
+  "title": "Restaurant",
+  "filters": {
+   "assetType": "Restaurant"
+  },
+  "numberOfAssets": 15055,
+  "numberOfSuites": 33003
+ },
+ {
+  "title": "Land",
+  "filters": {
+   "assetType": "Land"
+  },
+  "numberOfAssets": 14344,
+  "numberOfSuites": 23863
+ },
+ {
+  "title": "Special Purpose",
+  "filters": {
+   "assetType": "Special Purpose"
+  },
+  "numberOfAssets": 9391,
+  "numberOfSuites": 14979
+ }
+]

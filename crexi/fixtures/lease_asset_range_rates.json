@@ -1,0 +1,158 @@
+{
+ "types": [
+  "Office"
+ ],
+ "subtypes": [
+  "Creative Office"
+ ],
+ "hideStreetView": false,
+ "details": {
+  "Property Type": "Office",
+  "Subtype": "***************",
+  "Tenancy": "********",
+  "Total Building SqFt": "6,261",
+  "Minimum Divisible SqFt": "*****",
+  "Max Contiguous SqFt": "*****",
+  "Vacant SqFt": "*****",
+  "Class": "A",
+  "Total Parking Spaces": "2.0/1,000 SF",
+  "County": "******************"
+ },
+ "createdOn": "2022-01-14T06:38:54.19Z",
+ "activatedOn": "2022-08-30T19:19:45.245Z",
+ "hasBrokerOfRecord": false,
+ "location": {
+  "cityVerified": "Beverly Hills",
+  "stateVerified": {
+   "code": "CA",
+   "name": "California"
+  },
+  "address": "400 S Beverly Dr",
+  "city": "Beverly Hills",
+  "county": "Los Angeles County",
+  "state": {
+   "code": "CA",
+   "name": "California"
+  },
+  "zip": "90212",
+  "latitude": 34.0592083,
+  "longitude": -118.3978941,
+  "povLatitude": 34.0592083,
+  "povLongitude": -118.3978941
+ },
+ "userCanDownloadMd": false,
+ "isSavedToBoards": false,
+ "buildingHighlights": "<ul><li>Gensler designed creative office</li><li>Space features exposed ceilings and glass offices</li><li>Open floor plans</li><li>Walking distance to the best restaurants on South Beverly Drive</li><li>The most sought after Creative Office Building in Beverly Hills</li></ul>",
+ "suites": [
+  {
+   "id": 903566,
+   "name": "Suite 360",
+   "createdOn": "2022-01-14T06:41:17.343Z",
+   "updatedOn": "2026-05-16T11:28:28.705Z",
+   "spaceUse": [],
+   "subtypes": [
+    "Creative Office"
+   ],
+   "customSubtypes": [],
+   "rentableSqFt": 1230,
+   "rentableSqFtIsRange": false,
+   "rentableAcreIsRange": false,
+   "rateType": "Per Month",
+   "officeAvailableInPercent": false,
+   "baseRateSqFtIsRange": true,
+   "baseRateSqFtMin": 4.0,
+   "baseRateSqFtMax": 4.25,
+   "baseRateAcreIsRange": false,
+   "parking": "2.0/1,000",
+   "hasFloorPlan": true,
+   "hasFlyer": false,
+   "gallery": [],
+   "floorplanThumbnailUrl": "https://crexi.com/images/format=auto,width=230,height=150,fit=cover/lease-assets/389412/suites/903566/cc36b74bbcd54134b87d6bd8c2cce65c.jpg",
+   "floorplanImageUrl": "https://crexi.com/images/format=auto/lease-assets/389412/suites/903566/cc36b74bbcd54134b87d6bd8c2cce65c.jpg",
+   "displayBaseRate": "$4 - $4.25/SF/MO",
+   "activatedOn": "2022-08-30T19:19:45.245Z",
+   "marketingDescription": "4 Offices, Open Area, Kitchenette, Exposed Ceilings, Highly Creative Space",
+   "autoCalcTotalRate": false,
+   "autoCalcTotalMonthlyRent": false,
+   "listingType": "Direct",
+   "status": "Active",
+   "isOutdated": true,
+   "suiteUiConfiguration": {
+    "id": 903566,
+    "hideViewBrochure": false,
+    "hideFloorPlan": false
+   }
+  },
+  {
+   "id": 903567,
+   "name": "Suite 400",
+   "createdOn": "2022-01-14T06:42:34.311Z",
+   "updatedOn": "2026-05-16T11:28:52.263Z",
+   "spaceUse": [],
+   "subtypes": [
+    "Creative Office"
+   ],
+   "customSubtypes": [],
+   "rentableSqFt": 5031,
+   "rentableSqFtIsRange": false,
+   "rentableAcreIsRange": false,
+   "rateType": "Per Month",
+   "officeAvailableInPercent": false,
+   "baseRateSqFtIsRange": true,
+   "baseRateSqFtMin": 4.0,
+   "baseRateSqFtMax": 4.25,
+   "baseRateAcreIsRange": false,
+   "parking": "2.0/1,000",
+   "hasFloorPlan": true,
+   "hasFlyer": false,
+   "gallery": [],
+   "floorplanThumbnailUrl": "https://crexi.com/images/format=auto,width=230,height=150,fit=cover/lease-assets/389412/suites/903567/9396c7424fb14a35b6bf4e1c5cfb2910.jpg",
+   "floorplanImageUrl": "https://crexi.com/images/format=auto/lease-assets/389412/suites/903567/9396c7424fb14a35b6bf4e1c5cfb2910.jpg",
+   "displayBaseRate": "$4 - $4.25/SF/MO",
+   "activatedOn": "2022-08-30T19:19:45.245Z",
+   "autoCalcTotalRate": false,
+   "autoCalcTotalMonthlyRent": false,
+   "listingType": "Direct",
+   "status": "Active",
+   "isOutdated": true,
+   "suiteUiConfiguration": {
+    "id": 903567,
+    "hideViewBrochure": false,
+    "hideFloorPlan": false
+   }
+  }
+ ],
+ "isSingleTenant": false,
+ "rateYearlyPerSqft": "$48 - $51",
+ "rateMonthlyPerSqft": "$4 - $4.25",
+ "usePrintViewAsFlyer": false,
+ "hasVirtualTour": false,
+ "hideClimateRisk": false,
+ "hidePlacerInsights": false,
+ "hideDemographicInsights": false,
+ "realtorBoards": [],
+ "brokerProducts": [],
+ "assetUiConfiguration": {
+  "hideStreetView": false,
+  "hidePlacerInsights": false,
+  "hideDemographicInsights": false,
+  "hideViewBrochure": false,
+  "hideIntelComponents": false
+ },
+ "hasDefaultSummaryDetails": true,
+ "status": "Active",
+ "userIsAssetOwner": false,
+ "isPaused": false,
+ "updatedOn": "2026-05-16T11:29:37.305Z",
+ "isOutdated": true,
+ "hasFlyer": true,
+ "baseRateYearly": "$48 - $51",
+ "baseRateMonthly": "$4 - $4.25",
+ "aggregateDisplayBaseRate": "$4 - $4.25/SF/MO",
+ "id": 389412,
+ "name": "400 S Beverly Drive",
+ "description": "Office | 2 spaces available | 1,230 SqFt - 5,031 SqFt",
+ "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/lease-assets/389412/bb38bdcf7b7b45b8993d429ff56761f7.jpg",
+ "urlSlug": "california-400-s-beverly-drive",
+ "platform": "Lease"
+}

@@ -1,0 +1,87 @@
+[
+ {
+  "capabilities": [],
+  "brokerage": {
+   "location": {
+    "address": "2131 Ferguson Road",
+    "city": "Jackson",
+    "county": "",
+    "country": "United States",
+    "state": {
+     "code": "MI",
+     "name": "Michigan"
+    },
+    "zip": "49203",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "povLatitude": 0.0,
+    "povLongitude": 0.0
+   },
+   "name": "Howard Hanna Real Estate Services",
+   "logoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/54441/2f4e62ce644b48ef94a878609ccb1348.JPG",
+   "website": "https://www.howardhanna.com/"
+  },
+  "badges": [],
+  "numberOfAssets": 47,
+  "isInternal": false,
+  "isPlatinum": false,
+  "contactRevealRequired": false,
+  "hasPhone": false,
+  "hasEmail": false,
+  "globalId": "262a7831-336b-422d-8054-1123a8d6c3d8",
+  "id": 1742677,
+  "firstName": "Heather",
+  "lastName": "Herndon",
+  "thumbnailUrl": "https://crexi.com/images/format=auto,width=164,height=164,fit=cover/users/1742677/8cc8a5ee7b4d411da6e8934d6fe25561.JPG",
+  "createdOn": "2023-09-16T01:06:39.119Z",
+  "publicProfileId": "heatherhernd",
+  "licenses": [
+   "MI 6501335416"
+  ],
+  "licenseDetails": [
+   {
+    "brokerId": 1742677,
+    "position": 0,
+    "number": "MI 6501335416",
+    "createdOn": "2024-06-24T15:13:42.623Z",
+    "licenseStateCode": "MI",
+    "isAuctioneer": false,
+    "brokerageLicensePhone": "517-787-9800"
+   }
+  ],
+  "isAuctioneer": false,
+  "verificationMethod": "None"
+ },
+ {
+  "capabilities": [],
+  "brokerage": {
+   "location": {
+    "county": "",
+    "country": "United States",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "povLatitude": 0.0,
+    "povLongitude": 0.0
+   },
+   "name": "HOWARD HANNA REAL ESTATE SERVI"
+  },
+  "badges": [],
+  "numberOfAssets": 3,
+  "isInternal": false,
+  "isPlatinum": false,
+  "contactRevealRequired": false,
+  "hasPhone": false,
+  "hasEmail": false,
+  "globalId": "d9a70871-a080-423d-8815-64e15f66d670",
+  "id": 2933872,
+  "firstName": "Connor",
+  "lastName": "Talbert",
+  "thumbnailUrl": "https://crexi.com/images/format=auto,width=164,height=164,fit=cover/users/2933872/a314c6a2f1b246938022253758fb5519.JPG",
+  "createdOn": "2026-03-17T12:04:35.16Z",
+  "publicProfileId": "connortalb",
+  "licenses": [],
+  "licenseDetails": [],
+  "isAuctioneer": false,
+  "verificationMethod": "None"
+ }
+]

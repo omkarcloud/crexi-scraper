@@ -1,0 +1,46 @@
+[
+ {
+  "type": "Retail",
+  "subtypes": []
+ },
+ {
+  "type": "Office",
+  "subtypes": [
+   "Traditional Office",
+   "Executive Office",
+   "Coworking",
+   "Medical Office",
+   "Creative Office"
+  ]
+ },
+ {
+  "type": "Industrial",
+  "subtypes": [
+   "Refrigerated/Cold Storage",
+   "Manufacturing",
+   "Flex",
+   "Warehouse",
+   "Distribution",
+   "R&D"
+  ]
+ },
+ {
+  "type": "Restaurant",
+  "subtypes": []
+ },
+ {
+  "type": "Land",
+  "subtypes": [
+   "Agricultural",
+   "Residential",
+   "Commercial",
+   "Industrial"
+  ]
+ },
+ {
+  "type": "Special Purpose",
+  "subtypes": [
+   "Airport"
+  ]
+ }
+]

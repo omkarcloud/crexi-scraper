@@ -1,0 +1,1232 @@
+[
+ {
+  "suiteId": 1607492,
+  "name": "Space 2",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 2",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 2"
+   },
+   {
+    "key": "Rate",
+    "value": "$20/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$20/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 9870,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "9,870"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Retail"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Retail"
+   },
+   {
+    "key": "TotalMonthlyRent",
+    "value": 19780.138,
+    "valueType": "Money",
+    "label": "Total Monthly Rent",
+    "display": "$19,780"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 24.05,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$24.05/SF/YR"
+   },
+   {
+    "key": "Parking",
+    "value": "1238",
+    "valueType": "Text",
+    "label": "Parking",
+    "display": "1238"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "*********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "*********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "ExpenseRate",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "Expense Rate",
+    "display": "***********"
+   },
+   {
+    "key": "TotalCam",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "CAM",
+    "display": "***********"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "**************************",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "**************************"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ },
+ {
+  "suiteId": 1607505,
+  "name": "Space 4",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 4",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 4"
+   },
+   {
+    "key": "Rate",
+    "value": "$16/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$16/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 18498,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "18,498"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Retail"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Retail"
+   },
+   {
+    "key": "TotalMonthlyRent",
+    "value": 30905.2252,
+    "valueType": "Money",
+    "label": "Total Monthly Rent",
+    "display": "$30,905"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 20.05,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$20.05/SF/YR"
+   },
+   {
+    "key": "Parking",
+    "value": "1238",
+    "valueType": "Text",
+    "label": "Parking",
+    "display": "1238"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "*********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "*********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "ExpenseRate",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "Expense Rate",
+    "display": "***********"
+   },
+   {
+    "key": "TotalCam",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "CAM",
+    "display": "***********"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "**************************",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "**************************"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ },
+ {
+  "suiteId": 1607510,
+  "name": "Space 9",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 9",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 9"
+   },
+   {
+    "key": "Rate",
+    "value": "$15/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$15/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 22802,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "22,802"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Retail"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Retail"
+   },
+   {
+    "key": "TotalMonthlyRent",
+    "value": 36195.8948,
+    "valueType": "Money",
+    "label": "Total Monthly Rent",
+    "display": "$36,196"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 19.05,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$19.05/SF/YR"
+   },
+   {
+    "key": "Parking",
+    "value": "1238",
+    "valueType": "Text",
+    "label": "Parking",
+    "display": "1238"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "*********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "*********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "ExpenseRate",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "Expense Rate",
+    "display": "***********"
+   },
+   {
+    "key": "TotalCam",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "CAM",
+    "display": "***********"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "******",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "******"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ },
+ {
+  "suiteId": 2243773,
+  "name": "Space 10",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 10",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 10"
+   },
+   {
+    "key": "Rate",
+    "value": "$16/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$16/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 2975,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "2,975"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Traditional Office"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Traditional Office"
+   },
+   {
+    "key": "TotalMonthlyRent",
+    "value": 4970.431666666666,
+    "valueType": "Money",
+    "label": "Total Monthly Rent",
+    "display": "$4,970"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 20.05,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$20.05/SF/YR"
+   },
+   {
+    "key": "Parking",
+    "value": "1238",
+    "valueType": "Text",
+    "label": "Parking",
+    "display": "1238"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "ExpenseRate",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "Expense Rate",
+    "display": "***********"
+   },
+   {
+    "key": "TotalCam",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "CAM",
+    "display": "***********"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "**************************",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "**************************"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ },
+ {
+  "suiteId": 1607486,
+  "name": "Space 11",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 11",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 11"
+   },
+   {
+    "key": "Rate",
+    "value": "$16/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$16/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 5318,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "5,318"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Retail"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Retail"
+   },
+   {
+    "key": "TotalMonthlyRent",
+    "value": 8884.959866666666,
+    "valueType": "Money",
+    "label": "Total Monthly Rent",
+    "display": "$8,885"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 20.05,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$20.05/SF/YR"
+   },
+   {
+    "key": "Parking",
+    "value": "1238",
+    "valueType": "Text",
+    "label": "Parking",
+    "display": "1238"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "ExpenseRate",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "Expense Rate",
+    "display": "***********"
+   },
+   {
+    "key": "TotalCam",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "CAM",
+    "display": "***********"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "**************************",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "**************************"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ },
+ {
+  "suiteId": 1607490,
+  "name": "Space 12",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 12",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 12"
+   },
+   {
+    "key": "Rate",
+    "value": "$16/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$16/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 7500,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "7,500"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Retail"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Retail"
+   },
+   {
+    "key": "TotalMonthlyRent",
+    "value": 12530.5,
+    "valueType": "Money",
+    "label": "Total Monthly Rent",
+    "display": "$12,531"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 20.05,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$20.05/SF/YR"
+   },
+   {
+    "key": "Parking",
+    "value": "1238",
+    "valueType": "Text",
+    "label": "Parking",
+    "display": "1238"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "ExpenseRate",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "Expense Rate",
+    "display": "***********"
+   },
+   {
+    "key": "TotalCam",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "CAM",
+    "display": "***********"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "**************************",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "**************************"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ },
+ {
+  "suiteId": 2243778,
+  "name": "Space 15",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 15",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 15"
+   },
+   {
+    "key": "Rate",
+    "value": "$15/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$15/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 25590,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "25,590"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Traditional Office"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Traditional Office"
+   },
+   {
+    "key": "TotalMonthlyRent",
+    "value": 40621.566,
+    "valueType": "Money",
+    "label": "Total Monthly Rent",
+    "display": "$40,622"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 19.05,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$19.05/SF/YR"
+   },
+   {
+    "key": "Parking",
+    "value": "1238",
+    "valueType": "Text",
+    "label": "Parking",
+    "display": "1238"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "ExpenseRate",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "Expense Rate",
+    "display": "***********"
+   },
+   {
+    "key": "TotalCam",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "CAM",
+    "display": "***********"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "**************************",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "**************************"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ },
+ {
+  "suiteId": 2243780,
+  "name": "Space 16",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 16",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 16"
+   },
+   {
+    "key": "Rate",
+    "value": "$16/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$16/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 5142,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "5,142"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Traditional Office"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Traditional Office"
+   },
+   {
+    "key": "TotalMonthlyRent",
+    "value": 8590.9108,
+    "valueType": "Money",
+    "label": "Total Monthly Rent",
+    "display": "$8,591"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 20.05,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$20.05/SF/YR"
+   },
+   {
+    "key": "Parking",
+    "value": "1238",
+    "valueType": "Text",
+    "label": "Parking",
+    "display": "1238"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "ExpenseRate",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "Expense Rate",
+    "display": "***********"
+   },
+   {
+    "key": "TotalCam",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "CAM",
+    "display": "***********"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "**************************",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "**************************"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ },
+ {
+  "suiteId": 2287857,
+  "name": "Space 21",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 21",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 21"
+   },
+   {
+    "key": "Rate",
+    "value": "$16/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$16/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 1064,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "1,064"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Traditional Office"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Traditional Office"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 16.0,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$16/SF/YR"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "**************************",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "**************************"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ },
+ {
+  "suiteId": 2468757,
+  "name": "Space 22",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 22",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 22"
+   },
+   {
+    "key": "Rate",
+    "value": "$22/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$22/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 2236,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "2,236"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Traditional Office"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Traditional Office"
+   },
+   {
+    "key": "TotalMonthlyRent",
+    "value": 4099.333333333333,
+    "valueType": "Money",
+    "label": "Total Monthly Rent",
+    "display": "$4,099"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 22.0,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$22/SF/YR"
+   },
+   {
+    "key": "Parking",
+    "value": "1238",
+    "valueType": "Text",
+    "label": "Parking",
+    "display": "1238"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "**********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "**************************",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "**************************"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ },
+ {
+  "suiteId": 2243783,
+  "name": "Space 23",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 23",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 23"
+   },
+   {
+    "key": "Rate",
+    "value": "$20/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$20/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 1442,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "1,442"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Traditional Office"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Traditional Office"
+   },
+   {
+    "key": "TotalMonthlyRent",
+    "value": 2889.8641333333335,
+    "valueType": "Money",
+    "label": "Total Monthly Rent",
+    "display": "$2,890"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 24.05,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$24.05/SF/YR"
+   },
+   {
+    "key": "Parking",
+    "value": "1238",
+    "valueType": "Text",
+    "label": "Parking",
+    "display": "1238"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "ExpenseRate",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "Expense Rate",
+    "display": "***********"
+   },
+   {
+    "key": "TotalCam",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "CAM",
+    "display": "***********"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "**************************",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "**************************"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ },
+ {
+  "suiteId": 1607496,
+  "name": "Space 24",
+  "items": [
+   {
+    "key": "Name",
+    "value": "Space 24",
+    "valueType": "Text",
+    "label": "Space",
+    "display": "Space 24"
+   },
+   {
+    "key": "Rate",
+    "value": "$15/SF/YR",
+    "valueType": "Text",
+    "label": "Rate",
+    "display": "$15/SF/YR"
+   },
+   {
+    "key": "RentableSqFt",
+    "value": 45000,
+    "valueType": "IntegerType",
+    "label": "Rentable SqFt",
+    "display": "45,000"
+   },
+   {
+    "key": "Subtype",
+    "value": [
+     "Retail"
+    ],
+    "valueType": "Array",
+    "label": "Space Subtype",
+    "display": "Retail"
+   },
+   {
+    "key": "TotalMonthlyRent",
+    "value": 71433.0,
+    "valueType": "Money",
+    "label": "Total Monthly Rent",
+    "display": "$71,433"
+   },
+   {
+    "key": "ListingType",
+    "value": "Direct",
+    "valueType": "Text",
+    "label": "Listing Type",
+    "display": "Direct"
+   },
+   {
+    "key": "TotalRate",
+    "value": 19.05,
+    "valueType": "Money",
+    "label": "Total Rate",
+    "display": "$19.05/SF/YR"
+   },
+   {
+    "key": "Parking",
+    "value": "1238",
+    "valueType": "Text",
+    "label": "Parking",
+    "display": "1238"
+   },
+   {
+    "key": "LeaseTerm",
+    "value": "*********",
+    "valueType": "Text",
+    "label": "Lease Term",
+    "display": "*********"
+   },
+   {
+    "key": "LeaseType",
+    "value": "****",
+    "valueType": "Text",
+    "label": "Lease Type",
+    "display": "****"
+   },
+   {
+    "key": "ExpenseRate",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "Expense Rate",
+    "display": "***********"
+   },
+   {
+    "key": "TotalCam",
+    "value": "***********",
+    "valueType": "Text",
+    "label": "CAM",
+    "display": "***********"
+   },
+   {
+    "key": "SpaceUse",
+    "value": "******",
+    "valueType": "Text",
+    "label": "Space Use",
+    "display": "******"
+   },
+   {
+    "key": "AvailableOn",
+    "value": "**********",
+    "valueType": "Text",
+    "label": "Available on",
+    "display": "**********"
+   }
+  ]
+ }
+]

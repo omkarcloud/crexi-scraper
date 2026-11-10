@@ -1,0 +1,127 @@
+{
+ "totalSuiteCount": 8,
+ "data": [
+  {
+   "id": 1131798,
+   "name": "132 W Cortland Street",
+   "description": "Office | Single tenant | 3,166 SqFt",
+   "types": [
+    "Office",
+    "Industrial",
+    "Retail"
+   ],
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/lease-assets/1131798/cd0a379100e34395930be3fa8b40e7fd.JPG",
+   "urlSlug": "michigan-132-w-cortland-street",
+   "status": "Active",
+   "userIsAssetOwner": false,
+   "brokerLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/54441/2f4e62ce644b48ef94a878609ccb1348.JPG",
+   "brokerageName": "Howard Hanna Real Estate Services",
+   "activatedOn": "2026-02-02T12:01:55.066Z",
+   "rentableSqftMin": 3166,
+   "rentableSqftMax": 3166,
+   "baseRateYearly": "$11",
+   "baseRateMonthly": "$0.92",
+   "baseRateSqFtPerYearMin": 11.0,
+   "baseRateSqFtPerYearMax": 11.0,
+   "hasVideo": false,
+   "numberOfSuites": 1,
+   "numberOfImages": 34,
+   "isOutdated": true,
+   "hasVirtualTour": false,
+   "rateType": "Per Year",
+   "location": {
+    "address": "132 W Cortland Street",
+    "city": "Jackson",
+    "county": "Jackson",
+    "state": {
+     "code": "MI",
+     "name": "Michigan"
+    },
+    "zip": "49201",
+    "latitude": 42.246786,
+    "longitude": -84.407136,
+    "fullAddress": "132 W Cortland Street, Jackson, Jackson, MI 49201"
+   },
+   "isNew": false
+  },
+  {
+   "id": 1158037,
+   "name": "900 E Michigan Avenue 102",
+   "description": "Office | Single tenant | 15,000 SqFt",
+   "types": [
+    "Office"
+   ],
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/lease-assets/1158037/f7377a75ec5c429894df96f5f5432680.JPG",
+   "urlSlug": "michigan-900-e-michigan-avenue-102",
+   "status": "Active",
+   "userIsAssetOwner": false,
+   "brokerageName": "Howard Hanna Real Estate Services",
+   "activatedOn": "2026-01-16T18:29:25.157Z",
+   "rentableSqftMin": 15000,
+   "rentableSqftMax": 15000,
+   "baseRateYearly": "$10",
+   "baseRateMonthly": "$0.83",
+   "baseRateSqFtPerYearMin": 10.0,
+   "baseRateSqFtPerYearMax": 10.0,
+   "hasVideo": false,
+   "numberOfSuites": 1,
+   "numberOfImages": 49,
+   "isOutdated": false,
+   "hasVirtualTour": false,
+   "rateType": "Per Year",
+   "location": {
+    "address": "900 E Michigan Avenue 102",
+    "city": "Jackson",
+    "state": {
+     "code": "MI",
+     "name": "Michigan"
+    },
+    "zip": "49201",
+    "latitude": 42.249611,
+    "longitude": -84.395624,
+    "fullAddress": "900 E Michigan Avenue 102, Jackson, MI 49201"
+   },
+   "isNew": false
+  },
+  {
+   "id": 1158039,
+   "name": "900 E Michigan Avenue 103",
+   "description": "Office | Single tenant | 15,000 SqFt",
+   "types": [
+    "Office"
+   ],
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/lease-assets/1158039/11e0a34684324097ac4411c89fd20ed0.JPG",
+   "urlSlug": "michigan-900-e-michigan-avenue-103",
+   "status": "Active",
+   "userIsAssetOwner": false,
+   "brokerageName": "Howard Hanna Real Estate Services",
+   "activatedOn": "2026-05-03T14:54:12.821Z",
+   "rentableSqftMin": 15000,
+   "rentableSqftMax": 15000,
+   "baseRateYearly": "$10",
+   "baseRateMonthly": "$0.83",
+   "baseRateSqFtPerYearMin": 10.0,
+   "baseRateSqFtPerYearMax": 10.0,
+   "hasVideo": false,
+   "numberOfSuites": 1,
+   "numberOfImages": 47,
+   "isOutdated": false,
+   "hasVirtualTour": false,
+   "rateType": "Per Year",
+   "location": {
+    "address": "900 E Michigan Avenue 103",
+    "city": "Jackson",
+    "state": {
+     "code": "MI",
+     "name": "Michigan"
+    },
+    "zip": "49201",
+    "latitude": 42.249611,
+    "longitude": -84.395624,
+    "fullAddress": "900 E Michigan Avenue 103, Jackson, MI 49201"
+   },
+   "isNew": false
+  }
+ ],
+ "totalCount": 8
+}

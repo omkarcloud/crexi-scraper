@@ -1,0 +1,39 @@
+{
+ "auctionBidderStatus": "RegistrationAvailable",
+ "canApproveBidders": false,
+ "canEditSettings": false,
+ "canShowNextBidMeetsReserve": false,
+ "isNextBidMeetsReservePrice": false,
+ "clientManagerContact": {
+  "name": "Alex Orth",
+  "phone": "",
+  "email": "jorth@crexi.com"
+ },
+ "id": 2732040,
+ "propertyName": "Lot 9 Lake View Oﬃce Park Tavares FL",
+ "propertyAddress": "Salk Ave, Tavares, Lake County, FL 32778",
+ "auctionStatus": "BidderRegistration",
+ "auctionMarketingStartsOn": "2026-10-02T07:00:00Z",
+ "auctionStartsOn": "2026-11-30T17:00:00Z",
+ "auctionEndsOn": "2026-12-02T17:00:00Z",
+ "auctionEndsInSeconds": 2185327.9742859,
+ "bidIncrementAmount": 25000.0,
+ "minimumBidAmount": 25000.0,
+ "reserveMet": false,
+ "startingBid": 25000.0,
+ "transactionFee": 5.0,
+ "minimumFee": 20000.0,
+ "isSellerBidDisclosed": false,
+ "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/assets/2732040/8de7157611784be8a961716ba3b3ecce.jpg",
+ "stats": {
+  "numberOfRegisteredBidders": 0,
+  "numberOfApprovedBidders": 0,
+  "numberOfCAUsers": 0,
+  "numberOfOpenedFlyers": 0,
+  "numberOfOpenedOMs": 0,
+  "numberOfPageViews": 0,
+  "numberOfVisitors": 0
+ },
+ "hasVault": true,
+ "auctionType": "Reserve"
+}

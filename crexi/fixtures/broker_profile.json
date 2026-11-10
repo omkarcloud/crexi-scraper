@@ -1,0 +1,20 @@
+{
+ "brokerage": {
+  "name": "Howard Hanna Real Estate Services",
+  "logoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/54441/2f4e62ce644b48ef94a878609ccb1348.JPG",
+  "website": "https://www.howardhanna.com/"
+ },
+ "id": 1742677,
+ "firstName": "Heather",
+ "lastName": "Herndon",
+ "thumbnailUrl": "https://crexi.com/images/format=auto,width=164,height=164,fit=cover/users/1742677/8cc8a5ee7b4d411da6e8934d6fe25561.JPG",
+ "createdOn": "2023-09-16T01:06:39.119Z",
+ "publicProfileId": "heatherhernd",
+ "globalId": "262a7831-336b-422d-8054-1123a8d6c3d8",
+ "licenses": [
+  "MI 6501335416"
+ ],
+ "licenseDetails": [],
+ "isAuctioneer": false,
+ "verificationMethod": "None"
+}

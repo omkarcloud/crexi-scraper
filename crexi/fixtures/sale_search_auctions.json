@@ -1,0 +1,131 @@
+{
+ "data": [
+  {
+   "id": 2727076,
+   "name": "23.65 Acres of Entitled Multifamily & Single-Family Land",
+   "description": "Zoning PD 28 – Allows Multifamily, Build-to-Rent, Townhome, & Commercial",
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/assets/2727076/575de01b27dc41a18575ad81f32a86d7.png",
+   "urlSlug": "texas---2364-acres-of-entitled-multi-family-and-single-family-land",
+   "brokerTeamLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/6828/91555280559842b28d6d3ac1682e9901.png",
+   "brokerageName": "Dosch Marshall Real Estate",
+   "activatedOn": "2026-10-08T18:42:13.55Z",
+   "isInOpportunityZone": false,
+   "hasVideo": true,
+   "numberOfGalleryItems": 8,
+   "offersDueOn": "2026-11-18T20:00:00Z",
+   "showCountdownAsDate": false,
+   "askingPrice": 900000.0,
+   "userIsAssetOwner": false,
+   "updatedOn": "2026-10-14T20:07:08.925Z",
+   "numberOfImages": 7,
+   "types": [
+    "Land"
+   ],
+   "hasOM": true,
+   "hasFlyer": false,
+   "status": "Auction",
+   "hasVirtualTour": false,
+   "locations": [
+    {
+     "address": "6815 I-30",
+     "city": "Greenville",
+     "county": "Hunt County",
+     "state": {
+      "code": "TX",
+      "name": "Texas"
+     },
+     "zip": "75402",
+     "latitude": 33.0996895,
+     "longitude": -96.1039734,
+     "fullAddress": "6815 I-30, Greenville, Hunt County, TX 75402"
+    }
+   ],
+   "isNew": false
+  },
+  {
+   "id": 2732040,
+   "name": "Lot 9 Lake View Oﬃce Park Tavares FL",
+   "description": "Land | 0.81 acres",
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/assets/2732040/8de7157611784be8a961716ba3b3ecce.jpg",
+   "urlSlug": "Lot-9-Lake-View-Office-Park-Tavares-FL",
+   "brokerageName": "Saunders Real Estate",
+   "activatedOn": "2026-10-17T00:19:49.222Z",
+   "isInOpportunityZone": false,
+   "hasVideo": false,
+   "numberOfGalleryItems": 1,
+   "offersDueOn": "2026-12-02T17:00:00Z",
+   "showCountdownAsDate": false,
+   "askingPrice": 25000.0,
+   "userIsAssetOwner": false,
+   "updatedOn": "2026-10-26T14:21:53.268Z",
+   "numberOfImages": 1,
+   "types": [
+    "Land"
+   ],
+   "hasOM": true,
+   "hasFlyer": false,
+   "status": "Auction",
+   "hasVirtualTour": false,
+   "locations": [
+    {
+     "address": "Salk Ave",
+     "city": "Tavares",
+     "county": "Lake County",
+     "state": {
+      "code": "FL",
+      "name": "Florida"
+     },
+     "zip": "32778",
+     "latitude": 28.8201261,
+     "longitude": -81.7132089,
+     "fullAddress": "Salk Ave, Tavares, Lake County, FL 32778"
+    }
+   ],
+   "isNew": false
+  },
+  {
+   "id": 2758943,
+   "name": "Freestanding NNN Walgreens - San Bernardino, CA",
+   "description": "15,120 SF Building | 80 Parking Spaces",
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/assets/2758943/1ec8a5a339754d07985d38a405764e5b.jpeg",
+   "urlSlug": "california-nnn-walgreens",
+   "brokerTeamLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/52621/4c211f4212e34a9ab692587ddec4d4be.png",
+   "brokerageName": "JLL Los Angeles | Brentwood",
+   "activatedOn": "2026-10-23T20:57:34.816Z",
+   "isInOpportunityZone": false,
+   "hasVideo": false,
+   "numberOfGalleryItems": 29,
+   "squareFootage": 15120,
+   "offersDueOn": "2026-12-02T17:00:00Z",
+   "showCountdownAsDate": false,
+   "askingPrice": 1000000.0,
+   "userIsAssetOwner": false,
+   "updatedOn": "2026-11-05T18:30:09.838Z",
+   "numberOfImages": 29,
+   "types": [
+    "Retail"
+   ],
+   "hasOM": true,
+   "hasFlyer": false,
+   "status": "Auction",
+   "hasVirtualTour": false,
+   "locations": [
+    {
+     "address": "4041 N Sierra Way",
+     "city": "San Bernardino",
+     "county": "San Bernardino County",
+     "state": {
+      "code": "CA",
+      "name": "California"
+     },
+     "zip": "92407",
+     "latitude": 34.1654448,
+     "longitude": -117.2844229,
+     "fullAddress": "4041 N Sierra Way, San Bernardino, San Bernardino County, CA 92407"
+    }
+   ],
+   "isNew": false
+  }
+ ],
+ "totalCount": 127
+}

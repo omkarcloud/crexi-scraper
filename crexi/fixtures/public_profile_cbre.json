@@ -1,0 +1,67 @@
+{
+ "userId": 91512,
+ "userGlobalId": "6cedc887-651b-4bbf-a124-8f751d7987a4",
+ "verificationMethod": "None",
+ "photoUrl": "https://crexi.com/images/format=auto,width=164,height=164,fit=cover/users/91512/ddd7a40b892e4ea993c3afea3d376d4f.JPG",
+ "firstName": "CBRE",
+ "lastName": "Multifamily Advisors",
+ "publicProfileId": "francescocar",
+ "phone": "",
+ "licenseNumbers": [
+  "SL3102853"
+ ],
+ "markets": [
+  "Tampa"
+ ],
+ "badges": [],
+ "designations": [],
+ "hideSummaryStatistics": false,
+ "hideClosedTransaction": false,
+ "isPlatinum": false,
+ "updatedOn": "2025-02-25T16:00:11.636Z",
+ "specialityAssetType": "Multifamily",
+ "roles": {
+  "isListingBroker": true,
+  "isTransactionCoordinator": true,
+  "isBuysideBroker": false,
+  "isLandlordBroker": false,
+  "isCoordinator": false,
+  "isTenantRepBroker": false,
+  "isOtherRole": false,
+  "otherRole": "",
+  "isLeaseOtherRole": false,
+  "leaseOtherRole": ""
+ },
+ "brokerage": {
+  "location": {
+   "address": "400 S Hope St",
+   "city": "Los Angeles",
+   "county": "",
+   "country": "United States",
+   "state": {
+    "code": "CA",
+    "name": "California"
+   },
+   "zip": "90071",
+   "aptNumber": "25th floor",
+   "latitude": 0.0,
+   "longitude": 0.0,
+   "povLatitude": 0.0,
+   "povLongitude": 0.0
+  },
+  "name": "CBRE - Downtown Los Angeles",
+  "logoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/5479/60fb0f59d0684168b5d68df624a9bb9e.png",
+  "website": "https://www.cbre.com/offices/corporate/los-angeles"
+ },
+ "closedAssetsStats": {
+  "askingToSalePricePercent": 0.0,
+  "number": 1,
+  "value": 8450000.0,
+  "squareFootage": 0
+ },
+ "activeAssetsStats": {
+  "number": 0,
+  "value": 0.0,
+  "squareFootage": 0
+ }
+}

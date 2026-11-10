@@ -1,0 +1,194 @@
+{
+ "totalSuiteCount": 3690,
+ "data": [
+  {
+   "id": 657336,
+   "name": "Metric Commerce Center",
+   "description": "Industrial | 1 space available | 9,310 SqFt - 28,070 SqFt",
+   "types": [
+    "Industrial"
+   ],
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/lease-assets/657336/9a3da36c0a954cc791d960e613bafd14.jpg",
+   "urlSlug": "texas-metric-commerce-center",
+   "status": "Active",
+   "userIsAssetOwner": false,
+   "brokerLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/94769/736317adb7eb47c2a2c179cde024acca.PNG",
+   "brokerageName": "JLL - Austin, Texas",
+   "activatedOn": "2023-06-06T21:12:23.617Z",
+   "rentableSqftMin": 28070,
+   "rentableSqftMax": 28070,
+   "hasVideo": false,
+   "numberOfSuites": 1,
+   "numberOfImages": 13,
+   "isOutdated": true,
+   "hasVirtualTour": false,
+   "rateType": "Per Year",
+   "location": {
+    "address": "10300 Metric Blvd",
+    "city": "Austin",
+    "county": "Travis County",
+    "state": {
+     "code": "TX",
+     "name": "Texas"
+    },
+    "zip": "78758",
+    "latitude": 30.3828965,
+    "longitude": -97.7152909,
+    "fullAddress": "10300 Metric Blvd, Austin, Travis County, TX 78758"
+   },
+   "isNew": false
+  },
+  {
+   "id": 549317,
+   "name": "Southpark Meadows",
+   "description": "Retail | 7 spaces available | 1,288 SqFt - 15,000 SqFt",
+   "types": [
+    "Retail"
+   ],
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/lease-assets/549317/b06ee264d76c463bba153acd897adbe2.jpg",
+   "urlSlug": "texas-southpark-meadows",
+   "status": "Active",
+   "userIsAssetOwner": false,
+   "brokerLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/30690/5377ace0f38746bd8ea2118f00374ac5.png",
+   "brokerageName": "Big V Property Group",
+   "activatedOn": "2023-04-10T19:44:40.537Z",
+   "rentableSqftMin": 1288,
+   "rentableSqftMax": 15000,
+   "hasVideo": false,
+   "numberOfSuites": 7,
+   "numberOfImages": 13,
+   "isOutdated": true,
+   "hasVirtualTour": false,
+   "rateType": "Per Year",
+   "location": {
+    "address": "9600 S I-35 Frontage Rd",
+    "city": "Austin",
+    "state": {
+     "code": "TX",
+     "name": "Texas"
+    },
+    "zip": "78748",
+    "latitude": 30.1597057,
+    "longitude": -97.7919347,
+    "fullAddress": "9600 S I-35 Frontage Rd, Austin, TX 78748"
+   },
+   "isNew": false
+  },
+  {
+   "id": 680226,
+   "name": "1300 East 5th",
+   "description": "Office | 3 spaces available | 1,453 SqFt - 2,953 SqFt",
+   "types": [
+    "Office"
+   ],
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/lease-assets/680226/4139ea8830fe4a92bbb8ac4a66cae6ce.jpg",
+   "urlSlug": "texas-1300-east-5th",
+   "status": "Active",
+   "userIsAssetOwner": false,
+   "brokerLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/brokers/717/ab847048674b4a9596b23dfc96c079e5.png",
+   "brokerageName": "SHOP Companies Dallas",
+   "activatedOn": "2023-12-20T22:52:45.435Z",
+   "rentableSqftMin": 1453,
+   "rentableSqftMax": 2953,
+   "hasVideo": false,
+   "numberOfSuites": 3,
+   "numberOfImages": 8,
+   "isOutdated": true,
+   "hasVirtualTour": false,
+   "rateType": "Per Year",
+   "location": {
+    "address": "1300 E 5th St",
+    "city": "Austin",
+    "county": "Travis County",
+    "state": {
+     "code": "TX",
+     "name": "Texas"
+    },
+    "zip": "78702",
+    "latitude": 30.263323,
+    "longitude": -97.7295004,
+    "fullAddress": "1300 E 5th St, Austin, Travis County, TX 78702"
+   },
+   "isNew": false
+  },
+  {
+   "id": 671949,
+   "name": "Braker Pointe III",
+   "description": "Office | 1 space available | 10,691 SqFt - 29,247 SqFt",
+   "types": [
+    "Office"
+   ],
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/lease-assets/671949/d66639be36314b5e931f8ae77d6070c7.jpg",
+   "urlSlug": "texas-braker-pointe-iii",
+   "status": "Active",
+   "userIsAssetOwner": false,
+   "brokerLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/94769/736317adb7eb47c2a2c179cde024acca.PNG",
+   "brokerageName": "JLL - Austin, Texas",
+   "activatedOn": "2023-07-08T10:23:05.256Z",
+   "rentableSqftMin": 29247,
+   "rentableSqftMax": 29247,
+   "baseRateYearly": "$33",
+   "baseRateMonthly": "$2.75",
+   "baseRateSqFtPerYearMin": 33.0,
+   "baseRateSqFtPerYearMax": 33.0,
+   "hasVideo": false,
+   "numberOfSuites": 1,
+   "numberOfImages": 18,
+   "isOutdated": true,
+   "hasVirtualTour": false,
+   "rateType": "Per Year",
+   "location": {
+    "address": "10801 N Mopac Expy",
+    "city": "Austin",
+    "county": "Travis County",
+    "state": {
+     "code": "TX",
+     "name": "Texas"
+    },
+    "zip": "78759",
+    "latitude": 30.3971285,
+    "longitude": -97.7305718,
+    "fullAddress": "10801 N Mopac Expy, Austin, Travis County, TX 78759"
+   },
+   "isNew": false
+  },
+  {
+   "id": 718638,
+   "name": "Indeed Tower",
+   "description": "Office | 4 spaces available | 7,806 SqFt - 36,697 SqFt",
+   "types": [
+    "Office"
+   ],
+   "thumbnailUrl": "https://crexi.com/images/format=auto,width=716,height=444,fit=cover/lease-assets/718638/5161bbc80bd3463d93c6f14df8585f88.jpg",
+   "urlSlug": "texas-200-w-cesar-chavez-st",
+   "status": "Active",
+   "userIsAssetOwner": false,
+   "brokerLogoUrl": "https://crexi.com/images/format=auto,width=150,height=100/user-accounts/94769/736317adb7eb47c2a2c179cde024acca.PNG",
+   "brokerageName": "JLL - Austin, Texas",
+   "activatedOn": "2023-11-03T11:21:27.149Z",
+   "rentableSqftMin": 7806,
+   "rentableSqftMax": 34893,
+   "hasVideo": false,
+   "numberOfSuites": 4,
+   "numberOfImages": 29,
+   "isOutdated": true,
+   "hasVirtualTour": false,
+   "rateType": "Per Year",
+   "location": {
+    "address": "200 W Cesar Chavez St",
+    "city": "Austin",
+    "county": "Travis County",
+    "state": {
+     "code": "TX",
+     "name": "Texas"
+    },
+    "zip": "78701",
+    "latitude": 30.2642597,
+    "longitude": -97.7463986,
+    "fullAddress": "200 W Cesar Chavez St, Austin, Travis County, TX 78701"
+   },
+   "isNew": false
+  }
+ ],
+ "totalCount": 1137
+}
