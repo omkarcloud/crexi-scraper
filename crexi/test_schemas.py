@@ -193,3 +193,15 @@ def test_vocabularies_are_consistent():
         assert token in ("rank", "activatedOn", "updatedOn", "price", "capRate", "sqft"), public
     assert set(refs.LEASE_SUBTYPE_VALUES) <= set(refs.SALE_SUBTYPE_VALUES) | {"Coworking"}
     assert refs.SALE_STATUSES["auction"] == "Auction"
+
+
+def test_sqft_filters_reach_crexi_as_integers():
+    # Crexi answers 400 "Input string '1000.0' is not a valid integer" to a
+    # decimal sqFtMin / sqFtMax on both hosts (2026-11-10)
+    from crexi import api
+    sale = api._sale_body(schemas.PropertiesSearchSchema().load({"min_sqft": "1000", "max_sqft": "5000.6"}))
+    assert sale["sqFtMin"] == 1000 and sale["sqFtMax"] == 5001
+    assert isinstance(sale["sqFtMin"], int) and isinstance(sale["sqFtMax"], int)
+    lease = api._lease_body(schemas.LeasesSearchSchema().load({"min_sqft": "2500.0"}))
+    assert lease["sqFtMin"] == 2500 and isinstance(lease["sqFtMin"], int)
+    assert "acreageMin" not in lease

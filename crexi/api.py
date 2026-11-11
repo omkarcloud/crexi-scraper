@@ -56,10 +56,13 @@ def _common_filters(query=None, state=None, city=None, county=None, zip=None, mi
         body["types"] = property_type
     if subtype:
         body["subtypes"] = subtype
+    # sqFtMin / sqFtMax are integers on both hosts: "1000.0" is a 400
+    # "Input string '1000.0' is not a valid integer" (2026-11-10); every other
+    # numeric filter takes decimals
     if min_sqft is not None:
-        body["sqFtMin"] = min_sqft
+        body["sqFtMin"] = int(round(min_sqft))
     if max_sqft is not None:
-        body["sqFtMax"] = max_sqft
+        body["sqFtMax"] = int(round(max_sqft))
     if min_acres is not None:
         body["acreageMin"] = min_acres
     if max_acres is not None:
