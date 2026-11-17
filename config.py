@@ -37,3 +37,15 @@ def crexi_proxy():
 def crexi_fallback_proxy():
     """The proxy a blocked direct session moves to (None = no fallback)."""
     return os.environ.get("CREXI_FALLBACK_PROXY") or None
+
+
+# ---- added by the sync: defaults for a direct run ----
+CREXI_FALLBACK_EXIT = None
+CREXI_LAST_EXIT = None
+def crexi_last_proxy():
+    return None
+
+
+def gateway_exit(exit=None):
+    return None
+

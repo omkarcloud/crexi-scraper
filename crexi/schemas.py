@@ -23,18 +23,10 @@ from schema_fields import (BaseSchema, ChoiceField, CommaListField, DateField, F
                            NonNegativeNumber, PageField, PageSizeField, Price, QueryField, RefField,
                            StrippedString)
 from crexi import refs
+from scraper_utils.schema import max_length as _max_length
 
 MAX_PAGE_SIZE = 100    # the site serves up to 500; 100 keeps a page under ~200 KB
 DEFAULT_PAGE_SIZE = 20
-
-
-def _max_length(n):
-    """validate.Length(max=n) that tolerates the None StrippedString returns
-    for an empty value (marshmallow runs validators on it; len(None) is a 500)."""
-    def check(value):
-        if value is not None and len(value) > n:
-            raise ValidationError(f"Longer than maximum length {n}.")
-    return check
 
 
 def _optional_text(description, n=200):

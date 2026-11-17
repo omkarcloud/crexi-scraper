@@ -9,9 +9,15 @@ probe 2026-11-07 (scrapers-patchright-depl-74fddd498d-rfmk6): 200 on all 14
 surfaces from the pod's own IP, 2/2 datacenter and 2/2 US residential
 ports, 40 searches in a burst with no 429. A block (401 / 403 / 429 or a
 challenge page where JSON was expected) drops the thread's session and
-moves every new session to the fallback tier (a sticky datacenter proxy
-exit, config.crexi_fallback_proxy()) for CREXI_BLOCK_COOLDOWN seconds, so
-the retry rides a fresh exit.
+moves every new session to the fallback tier (config.crexi_fallback_proxy();
+since 2026-11-11 the shared gateway exit, CREXI_FALLBACK_EXIT = "gateway",
+exit_gateway.py: a fresh gateway address on nearly every request, numbers in
+config.py's crexi block) for CREXI_BLOCK_COOLDOWN seconds, so the retry
+rides a fresh exit. Behind the gateway sits a sticky datacenter proxy exit
+(config.crexi_last_proxy(), CREXI_LAST_EXIT): a refusal through the gateway
+moves new sessions there for the cooldown, and a call the gateway fails
+any other way (the gateway's own errors, a timeout, 5xx) makes its last
+retry there, for that call only.
 
 Two hosts, one shape (crexi/refs.py API_HOST): api.crexi.com for the SALE
 marketplace and api-lease.crexi.com for the LEASE marketplace. Surfaces:
@@ -51,6 +57,7 @@ import config
 import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 from crexi.refs import API_HOST, LEASE, SALE, SALE_API, SITE
+from scraper_utils import sessions
 
 IMPERSONATE = "chrome"
 TIMEOUT = 30
@@ -77,29 +84,35 @@ class CrexiNotFound(NotFound):
 
 
 # ---- sessions ----------------------------------------------------------------
-# One session per cheroot worker thread (a curl handle is not thread-safe).
+# One session per cheroot worker thread (a curl handle is not thread-safe;
+# egress.new_session: curl_cffi, or the gateway exit's look-alike).
 # Process-wide: after a block on the default tier every new session rides
-# the fallback tier until _fallback_until.
+# the fallback tier (the gateway exit) until _fallback_until; after a refusal
+# there too, the last tier (a datacenter exit) until _last_until.
 _local = threading.local()
 _fallback_until = 0.0
+_last_until = 0.0
 _fallback_lock = threading.Lock()
 
 
 def _proxy():
+    if getattr(_local, "last_try", False):      # the last retry of a call the gateway kept failing (_retrying)
+        return config.crexi_last_proxy()
     proxy = config.crexi_proxy()
-    if proxy is None and time.time() < _fallback_until:
-        proxy = config.crexi_fallback_proxy()
+    if proxy is None:
+        now = time.time()
+        if now < _last_until:
+            proxy = config.crexi_last_proxy()
+        if proxy is None and now < _fallback_until:
+            proxy = config.crexi_fallback_proxy()
     return proxy
 
 
 def _session():
     sess = getattr(_local, "session", None)
     if sess is None:
-        from curl_cffi import requests as curl_requests
-        proxy = _proxy()
-        sess = curl_requests.Session(impersonate=IMPERSONATE)
-        if proxy:
-            sess.proxies = {"http": proxy, "https": proxy}
+        proxy = _local.exit = _proxy()
+        sess = egress.new_session(proxy, impersonate=IMPERSONATE)     # None, a proxy URL, or the gateway exit ("gateway")
         sess.headers["accept-language"] = egress.accept_language(proxy)
         sess.headers["accept"] = "application/json, text/plain, */*"
         sess.headers["origin"] = SITE
@@ -108,35 +121,58 @@ def _session():
     return sess
 
 
+def _on_gateway():
+    """True while the thread's session rides the gateway exit."""
+    return getattr(_local, "session", None) is not None and bool(config.gateway_exit(getattr(_local, "exit", None)))
+
+
 def _drop_session(blocked=False):
     """Close the thread's session (fresh exit next time); a block on the
-    default tier also starts the fallback cooldown for every thread."""
-    global _fallback_until
+    default tier also starts the fallback cooldown for every thread, and a
+    block through the gateway exit the last tier's."""
+    global _fallback_until, _last_until
+    on_gateway = _on_gateway()
     sess = getattr(_local, "session", None)
     _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
-    if blocked and config.crexi_proxy() is None and config.crexi_fallback_proxy() is not None:
+    sessions.close_quietly(sess)
+    if blocked and config.crexi_proxy() is None:
+        until = time.time() + config.CREXI_BLOCK_COOLDOWN
         with _fallback_lock:
-            _fallback_until = max(_fallback_until, time.time() + config.CREXI_BLOCK_COOLDOWN)
+            if on_gateway and config.crexi_last_proxy() is not None:
+                print(f"crexi: the gateway exit was refused too ({config.CREXI_FALLBACK_EXIT}); new sessions on "
+                      f"{config.CREXI_LAST_EXIT} for {config.CREXI_BLOCK_COOLDOWN} s")
+                _last_until = max(_last_until, until)
+            elif time.time() < _last_until:         # refused on the last tier: stay there on a fresh exit
+                _last_until = max(_last_until, until)
+            elif config.crexi_fallback_proxy() is not None:
+                _fallback_until = max(_fallback_until, until)
 
 
 def _retrying(fn):
     """Run fn() under the shared retry policy (CrexiUpstreamError only;
-    NotFound / BadRequest surface immediately)."""
+    NotFound / BadRequest surface immediately). A call whose tries through
+    the gateway exit keep failing makes its LAST retry on
+    config.CREXI_LAST_EXIT: the gateway's own errors (its throttle, its 29 s
+    timeout) then cost latency, not the call."""
     last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except CrexiUpstreamError as e:
-            last = e
-            _drop_session(blocked=isinstance(e, CrexiBlocked))
-            if attempt < config.MAX_RETRIES:
-                time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
+    try:
+        for attempt in range(1, config.MAX_RETRIES + 1):
+            try:
+                return fn()
+            except CrexiUpstreamError as e:
+                last = e
+                on_gateway = _on_gateway()
+                _drop_session(blocked=isinstance(e, CrexiBlocked))
+                if attempt < config.MAX_RETRIES:
+                    # the session _session() builds next
+                    _local.last_try = (on_gateway and attempt + 1 == config.MAX_RETRIES
+                                       and config.crexi_last_proxy() is not None)
+                    time.sleep(config.RETRY_BACKOFF * attempt)
+        raise last
+    finally:
+        if getattr(_local, "last_try", False):
+            _local.last_try = False
+            _drop_session()         # the next call starts on the thread's own tier again
 
 
 # ---- request helpers -----------------------------------------------------------
